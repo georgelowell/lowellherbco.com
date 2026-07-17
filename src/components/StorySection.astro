@@ -8,6 +8,7 @@ export interface Props {
 }
 
 const { image, imageAlt = '', heading, text, imagePosition = 'left' } = Astro.props;
+const positionClass = imagePosition === 'right' ? 'ic-right-img' : 'ic-left-img';
 ---
 
 <style>
@@ -31,10 +32,10 @@ const { image, imageAlt = '', heading, text, imagePosition = 'left' } = Astro.pr
 
   .ic-image {
     width: calc(50% - 50px);
-    height: 100%;
     min-height: 500px;
     overflow: hidden;
     position: relative;
+    flex-shrink: 0;
   }
 
   .ic-image img {
@@ -47,7 +48,7 @@ const { image, imageAlt = '', heading, text, imagePosition = 'left' } = Astro.pr
   }
 
   .ic-content {
-    width: 50%;
+    flex: 1;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -69,10 +70,6 @@ const { image, imageAlt = '', heading, text, imagePosition = 'left' } = Astro.pr
     margin: 0 auto;
   }
 
-  .ic-content h2 span {
-    color: var(--button-burgundy);
-  }
-
   .ic-content p {
     color: var(--text-charcoal);
     font: normal normal 400 16px/1.6 var(--font-sans);
@@ -90,6 +87,7 @@ const { image, imageAlt = '', heading, text, imagePosition = 'left' } = Astro.pr
       position: static !important;
       width: 100% !important;
       min-height: 300px;
+      flex-shrink: 1;
     }
 
     .ic-content {
@@ -99,12 +97,12 @@ const { image, imageAlt = '', heading, text, imagePosition = 'left' } = Astro.pr
   }
 </style>
 
-<section class="image-content-box {imagePosition === 'right' ? 'ic-right-img' : 'ic-left-img'}">
+<section class={`image-content-box ${positionClass}`}>
   <figure class="ic-image">
-    <img src="{image}" alt="{imageAlt}" loading="lazy">
+    <img src={image} alt={imageAlt} loading="lazy" />
   </figure>
   <div class="ic-content">
-    <img src="/images/herb-icon.svg" alt="" class="herb-icon" aria-hidden="true">
+    <img src="/images/herb-icon.svg" alt="" class="herb-icon" aria-hidden="true" />
     <h2 class="common-h2">{heading}</h2>
     <p>{text}</p>
   </div>

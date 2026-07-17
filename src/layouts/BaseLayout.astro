@@ -5,11 +5,19 @@ import Footer from '../components/Footer.astro';
 import AgeGate from '../components/AgeGate.astro';
 ---
 
-<AgeGate />
-<Header />
-
-<main>
-  <slot />
-</main>
-
-<Footer />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lowell Herb Co.</title>
+</head>
+<body>
+  <AgeGate />
+  <Header />
+  <main>
+    <slot />
+  </main>
+  <Footer />
+</body>
+</html>

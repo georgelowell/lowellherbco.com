@@ -34,6 +34,26 @@ import FeatureCard from './FeatureCard.astro';
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
+    align-items: start;
+  }
+
+  .lowel-herebs-features-item {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 16px;
+    padding: 0 30px;
+    text-align: center;
+    height: 100%;
+  }
+
+  .lowel-herebs-features-item h4 {
+    min-height: 3.2em;
+  }
+
+  .lowel-herebs-features-item p {
+    flex: 1;
   }
 
   @media (max-width: 768px) {

@@ -1,0 +1,81 @@
+---
+import FeatureCard from './FeatureCard.astro';
+---
+
+<style>
+  .lowel-herebs-features {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 55px 0;
+    background-color: #f5f0eb;
+  }
+
+  .lowel-herebs-features .heading-text {
+    text-align: center;
+    margin-bottom: 60px;
+  }
+
+  .lowel-herebs-features .heading-text h2 {
+    margin-bottom: 16px;
+  }
+
+  .lowel-herebs-features .heading-text p {
+    color: var(--text-gray);
+    font: normal normal 400 16px/1.6 var(--font-sans);
+    max-width: 490px;
+    margin: 0 auto;
+  }
+
+  .features-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+
+  @media (max-width: 768px) {
+    .features-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .lowel-herebs-features .heading-text p {
+      margin-bottom: 30px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .features-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<section class="lowel-herebs-features">
+  <div class="heading-text">
+    <img src="/images/herb-icon.svg" alt="" class="herb-icon" aria-hidden="true" style="margin:0 auto 30px;">
+    <h2 class="common-h2">What Sets Us Apart</h2>
+    <p>At Lowell, every product is crafted with respect for the plant, our planet and you. We sweat the details so you don't need to.</p>
+  </div>
+
+  <div class="features-grid">
+    <FeatureCard
+      title="Quality First"
+      description="We start with really good artisan craft cannabis. We source from hundreds of growers and only take in product that meets rigorous criteria."
+    />
+    <FeatureCard
+      title="Always Blended"
+      description="We purposefully blend our flour strains in order to add terpine diversity and flavor."
+    />
+    <FeatureCard
+      title="A Better Smoke"
+      description="Every aspect of our prerolls are relentlessly engineered to give a smoother smoke with an easy draw. With Lowell, you will never lose a cherry again!"
+    />
+    <FeatureCard
+      title="Ready and Able"
+      description="Cannabis is gift that enhances our journey through this world. Our packaging is always travel friendly; complete with matches."
+    />
+  </div>
+</section>

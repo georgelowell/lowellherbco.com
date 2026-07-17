@@ -1,0 +1,155 @@
+---
+---
+
+<style>
+  .hero {
+    position: relative;
+    padding: 180px 0 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    height: 100vh;
+    min-height: 600px;
+  }
+
+  .hero-background-video {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    left: 0;
+    top: 0;
+  }
+
+  .hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+  }
+
+  .heading-text {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    padding: 0 20px;
+  }
+
+  .hero h1 {
+    color: var(--white);
+  }
+
+  .hero .text-img {
+    max-width: 592px;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .hero .hero-sub {
+    color: var(--white);
+    font: normal normal 400 16px/1.6 var(--font-sans);
+    text-align: center;
+    max-width: 800px;
+    margin: 22px auto;
+  }
+
+  .hero-footer {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2;
+    text-align: center;
+  }
+
+  .hero-footer p {
+    color: var(--white);
+    font: normal normal 400 16px/1.6 var(--font-serif);
+    margin-bottom: 10px;
+  }
+
+  .hero-footer .social-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+  }
+
+  .hero-footer .social-links a {
+    color: var(--white);
+    font-size: 20px;
+    transition: opacity 0.3s;
+  }
+
+  .hero-footer .social-links a:hover {
+    opacity: 0.7;
+  }
+
+  .scroll-prompt {
+    position: absolute;
+    z-index: 3;
+    bottom: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .scroll-prompt-arrow {
+    width: 20px;
+    height: 20px;
+    border-right: 2px solid #bebebe;
+    border-bottom: 2px solid #bebebe;
+    transform: rotate(45deg);
+    animation: bounce 1.5s infinite;
+  }
+
+  .scroll-prompt-arrow:nth-child(2) {
+    margin-top: -8px;
+    animation-direction: reverse;
+  }
+
+  @keyframes bounce {
+    0%, 100% { opacity: 0.2; }
+    50% { opacity: 1; }
+  }
+</style>
+
+<section class="hero">
+  <video class="hero-background-video" autoplay muted loop playsinline poster="/images/hero-text.png">
+    <source src="/video/video-1.mp4" type="video/mp4">
+  </video>
+  <div class="hero-overlay"></div>
+
+  <div class="heading-text">
+    <h1 class="main-heading">Great American Cannabis</h1>
+    <p class="hero-sub">Born at the dawn of legalization, Lowell has become America's favorite preroll with a footprint that spans across the United States of America. The reason for our success is simple:</p>
+    <img src="/images/hero-text.png" alt="Nothing Smokes Like a Lowell" class="text-img">
+  </div>
+
+  <div class="scroll-prompt">
+    <div class="scroll-prompt-arrow"></div>
+    <div class="scroll-prompt-arrow"></div>
+  </div>
+
+  <div class="hero-footer">
+    <p>Follow us</p>
+    <div class="social-links">
+      <a href="https://www.instagram.com/lowellherbco" target="_blank" aria-label="Instagram">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>
+      </a>
+      <a href="https://www.instagram.com/lowellfarms" target="_blank" aria-label="Lowell Farms Instagram">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>
+      </a>
+      <a href="https://twitter.com/lowellfarms" target="_blank" aria-label="X/Twitter">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+      </a>
+    </div>
+  </div>
+</section>

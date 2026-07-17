@@ -1,0 +1,137 @@
+---
+// Age verification overlay
+const ageCookieName = 'lowell_age_verified';
+---
+
+<style>
+  .age-section {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    min-height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.85);
+    z-index: 99999;
+  }
+
+  .age-section.hidden {
+    display: none;
+  }
+
+  .age-section-box {
+    border-radius: 39px;
+    padding: 57px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: var(--sage-dark);
+    max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .age-section-box h6 {
+    color: var(--gold-cream);
+    font: normal normal 15px/1.6 var(--font-sans);
+    margin-bottom: 15px;
+  }
+
+  .age-section-box h5 {
+    color: #FCFCF8;
+    font: normal normal 15px/1.2 var(--font-sans);
+    margin-bottom: 21px;
+  }
+
+  .age-section-box p {
+    color: #D2CFC6;
+    font: normal normal 17px/1.2 var(--font-sans);
+    margin-bottom: 20px;
+  }
+
+  .age-section-box .btn-group {
+    display: flex;
+    gap: 16px;
+  }
+
+  .age-section-box button {
+    padding: 15px 40px;
+    font: normal normal 400 16px/1.6 var(--font-sans);
+    border: none;
+    cursor: pointer;
+    border-radius: 0;
+    transition: all ease 0.6s;
+  }
+
+  .age-section-box button.yes {
+    color: var(--white);
+    background-color: var(--button-burgundy);
+  }
+
+  .age-section-box button.yes:hover {
+    background-color: #563835d6;
+  }
+
+  .age-section-box button.no {
+    color: var(--white);
+    background-color: #333;
+  }
+
+  .age-section-box button.no:hover {
+    background-color: #444;
+  }
+</style>
+
+<div class="age-section" id="ageGate">
+  <div class="age-section-box">
+    <div style="margin-bottom:20px;">
+      <svg width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="#D1D0C3" stroke-width="1.5">
+        <path d="M12 2L2 7l10 5 10-5-10-5z" />
+        <path d="M2 17l10 5 10-5" />
+        <path d="M2 12l10 5 10-5" />
+      </svg>
+    </div>
+    <h5>Welcome to Lowell Herb Co.</h5>
+    <h6>Are you over 21+ years old?</h6>
+    <p>You must be 21 years or older to enter this site. Please verify your age.</p>
+    <div class="btn-group">
+      <button class="yes" id="ageYes">Yes, I am</button>
+      <button class="no" id="ageNo">No, I am not</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function() {
+    const cookieName = 'lowell_age_verified';
+    const gate = document.getElementById('ageGate');
+
+    function getCookie(name) {
+      const match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+      return match ? decodeURIComponent(match[2]) : null;
+    }
+
+    function setCookie(name, value, days) {
+      const d = new Date();
+      d.setTime(d.getTime() + (days * 24 * 60 * 60 * 1000));
+      document.cookie = name + '=' + encodeURIComponent(value) + ';expires=' + d.toUTCString() + ';path=/;SameSite=Lax';
+    }
+
+    if (getCookie(cookieName)) {
+      gate.classList.add('hidden');
+    }
+
+    document.getElementById('ageYes').addEventListener('click', function() {
+      setCookie(cookieName, 'true', 30);
+      gate.classList.add('hidden');
+    });
+
+    document.getElementById('ageNo').addEventListener('click', function() {
+      window.location.href = 'https://www.google.com';
+    });
+  })();
+</script>

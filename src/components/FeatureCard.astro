@@ -1,0 +1,43 @@
+---
+export interface Props {
+  title: string;
+  description: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<style>
+  .lowel-herebs-features-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 16px;
+    padding: 0 30px;
+    text-align: center;
+  }
+
+  .lowel-herebs-features-item img {
+    max-width: 68px;
+    max-height: 55px;
+  }
+
+  .lowel-herebs-features-item h4 {
+    color: var(--black);
+    font: normal normal 400 16px/1.6 var(--font-serif);
+    text-transform: uppercase;
+  }
+
+  .lowel-herebs-features-item p {
+    color: var(--text-muted);
+    font: normal normal 400 16px/1.6 var(--font-sans);
+    text-align: center;
+  }
+</style>
+
+<div class="lowel-herebs-features-item">
+  <img src="/images/leaf.svg" alt="" aria-hidden="true">
+  <h4>{title}</h4>
+  <p>{description}</p>
+</div>

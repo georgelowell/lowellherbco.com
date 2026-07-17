@@ -1,0 +1,140 @@
+---
+---
+
+<style>
+  .header {
+    position: absolute;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    transition: all 0.6s ease;
+  }
+
+  header .navbar-brand img {
+    max-width: 131px;
+    max-height: 131px;
+    transition: all 0.6s ease;
+  }
+
+  header.stickyHeader .navbar-brand img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+
+  header .navbar-toggler {
+    border: none;
+    background: none;
+    padding: 0;
+  }
+
+  header .navbar-toggler:focus {
+    border: none;
+    box-shadow: none;
+  }
+
+  header .navbar-toggler span {
+    color: var(--white);
+    font-size: 24px;
+  }
+
+  header .container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 24px;
+  }
+
+  header .navbar-collapse {
+    position: absolute;
+    right: 24px;
+    top: 80%;
+    background: var(--sage-light);
+    border-radius: 10px;
+    width: 100%;
+    max-width: 250px;
+    display: none;
+  }
+
+  header .navbar-collapse.open {
+    display: block;
+  }
+
+  header .navbar-collapse #menu-header-menu {
+    padding: 20px;
+    margin: 0;
+  }
+
+  header .navbar-collapse #menu-header-menu li {
+    margin-bottom: 12px;
+  }
+
+  header .navbar-collapse #menu-header-menu li:last-child {
+    margin-bottom: 0;
+  }
+
+  header .navbar-collapse #menu-header-menu li a {
+    color: var(--black) !important;
+    font: normal normal 500 16px / 1.6 var(--font-sans);
+    text-transform: capitalize;
+  }
+
+  header .navbar-collapse #menu-header-menu li a.active {
+    color: var(--button-burgundy) !important;
+  }
+
+  .custom-toggler {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+</style>
+
+<header class="header" id="siteHeader">
+  <nav class="navbar">
+    <div class="container">
+      <a class="navbar-brand" href="/">
+        <img src="/images/cropped-Transparent-bull-logo.png" alt="Lowell Herb Co.">
+      </a>
+      <div class="custom-toggler">
+        <button class="navbar-toggler" id="navToggle" type="button" aria-label="Toggle navigation">
+          <span class="hamburger">☰</span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarsExample01">
+          <ul id="menu-header-menu">
+            <li><a href="/" class="active">Home</a></li>
+            <li><a href="https://lowellsupply.com/shop?utm_source=lowellherbco" target="_blank">Shop Online</a></li>
+            <li><a href="/store-locator">Store Locator</a></li>
+            <li><a href="/catalogue">Catalogue</a></li>
+            <li><a href="/follow">Follow Us</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<script>
+  (function() {
+    const toggle = document.getElementById('navToggle');
+    const menu = document.getElementById('navbarsExample01');
+    const header = document.getElementById('siteHeader');
+
+    toggle.addEventListener('click', function() {
+      menu.classList.toggle('open');
+    });
+
+    // Sticky header on scroll
+    let lastScroll = 0;
+    window.addEventListener('scroll', function() {
+      const currentScroll = window.pageYOffset;
+      if (currentScroll > 100) {
+        header.classList.add('stickyHeader');
+      } else {
+        header.classList.remove('stickyHeader');
+      }
+      lastScroll = currentScroll;
+    });
+  })();
+</script>

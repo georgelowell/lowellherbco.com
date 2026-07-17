@@ -1,0 +1,92 @@
+---
+import type { Product } from '../data/products';
+
+export interface Props {
+  product: Product;
+  index: number;
+}
+
+const { product, index } = Astro.props;
+const { name, tagline, description, image } = product;
+---
+
+<style>
+  .listing-item {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+    padding: 40px 0;
+    border-bottom: 1px dashed #ccc;
+  }
+
+  .listing-item:last-child {
+    border-bottom: none;
+  }
+
+  .listing-item-img {
+    flex-shrink: 0;
+    width: 300px;
+  }
+
+  .listing-item-img img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    max-height: 400px;
+  }
+
+  .listing-item-text {
+    flex: 1;
+    padding-top: 10px;
+  }
+
+  .listing-item-text h5 {
+    font: normal normal 400 28px/1.2 var(--font-serif);
+    color: var(--text-dark);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+  }
+
+  .listing-item-text h6 {
+    font: normal normal 400 18px/1.3 var(--font-serif);
+    color: var(--text-gray);
+    font-style: italic;
+    margin-bottom: 16px;
+    padding-bottom: 16px;
+    border-bottom: 1px dashed #ccc;
+  }
+
+  .listing-item-text h6:empty {
+    display: none;
+  }
+
+  .listing-item-text p {
+    color: var(--text-charcoal);
+    font: normal normal 400 15px/1.6 var(--font-sans);
+    white-space: pre-line;
+  }
+
+  @media (max-width: 767px) {
+    .listing-item {
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .listing-item-img {
+      width: 100%;
+      max-width: 300px;
+      margin: 0 auto;
+    }
+  }
+</style>
+
+<div class="listing-item">
+  <div class="listing-item-img">
+    <img src="{image}" alt="{name}" loading="{index < 3 ? 'eager' : 'lazy'}">
+  </div>
+  <div class="listing-item-text">
+    <h5>{name}</h5>
+    {tagline && <h6>{tagline}</h6>}
+    <p>{description}</p>
+  </div>
+</div>

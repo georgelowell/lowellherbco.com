@@ -1,11 +1,57 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import HeroSection from '../components/HeroSection.astro';
+import ParallaxSection from '../components/ParallaxSection.astro';
+import FeaturesSection from '../components/FeaturesSection.astro';
+import StorySection from '../components/StorySection.astro';
 ---
 
-<Layout>
-	<Welcome />
-</Layout>
+<BaseLayout>
+  <HeroSection />
+
+  <ParallaxSection image="/images/leaf-paralax-crop.png" />
+
+  <FeaturesSection />
+
+  <StorySection
+    image="/images/grow-hero-image.png"
+    imageAlt="Cannabis grow facility"
+    heading="About"
+    text="At Lowell [low·uhl], every product is crafted with respect for the plant, our planet and you. We proudly stand behind using sustainable packaging and practices to produce high quality, all natural cannabis products. We invite you to spark adventure and blaze new trails with our line of premium, California-inspired cannabis products. Whether you&rsquo;re looking to get inspired, socialize, or unplug and connect with the world around you, let Lowell take you there."
+    imagePosition="left"
+  />
+
+  <StorySection
+    image="/images/pack-hero.png"
+    imageAlt="Lowell Smokes packaging"
+    heading="Our Inspiration"
+    text={`In the spring of 1909, William "Bull" Lowell began growing what was called Indian Hemp on his farm on the central coast of California. Henry J. Finger took a dislike to Bull's "marijuana being smoked by the wrong kinds of people." Finger conspired to outlaw cannabis and later passed the 1913 Poison Act. Bull believed in a man's right to smoke the dried plant and enjoy its benefits. When the stubborn Bull refused to stop growing his beloved plant, Finger shut down Bull's farm and later threw him in jail.`}
+    imagePosition="right"
+  />
+
+  <StorySection
+    image="/images/staff-only-hero.png"
+    imageAlt="Lowell team members"
+    heading="History"
+    text="Lowell was born in 2017 in Southern California at the dawn of legalization when we introduced the first pack of prerolls to the cannabis consumer. Today, we are proud to still be California&rsquo;s #1 flower preroll pack. In 2021, Lowell began its expansion from California into other markets, following legalization around the country. Today, Lowell is based in the Hudson Valley Region of New York with operations spanning across the country."
+    imagePosition="left"
+  />
+
+  <StorySection
+    image="/images/hiking-couple-hero.png"
+    imageAlt="Couple hiking in redwood forest"
+    heading="Natura Arte Aucta"
+    text={`A loosely translated Latin phrase to mean "Nature enhanced through art." For us, it is an invitation to bring cannabis along with you as we seek to explore the world and its wonder. Cannabis can elevate the glory of life and enhance our appreciation of beauty. Legalization means many things, but at Lowell we believe legalization unlocks our ability to enjoy the world at large through the enhanced appreciation, love, focus and clarity that a good joint that can bring. As we all journey through the world, Lowell is a trusted companion in your pocket always ready to elevate the glory of life.`}
+    imagePosition="right"
+  />
+
+  <StorySection
+    image="/images/preroll-hero.png"
+    imageAlt="Pre-rolls in wooden bowl"
+    heading="America&rsquo;s Favorite Pre-Roll"
+    text="Our success is the result of our painstaking attention to detail. Every Lowell product is made from choice, all natural ingredients selected by our discerning staff. At Lowell, we never stand still, we are always evolving the blends that we use and the engineered construction of our prerolls to bring an elevated experience. Our manufacturing processes and the materials we use are designed to yield the best smoking experience in the business."
+    imagePosition="left"
+  />
+
+  <ParallaxSection image="/images/outdoor-grow-parralax_.png" />
+</BaseLayout>

@@ -1,0 +1,700 @@
+[
+  {
+    "name": "Wonderbrett",
+    "original_name": "314 La Brea, LLC - Wonderbrett",
+    "address": "314 N La Brea Ave, Los Angeles, CA 90036",
+    "phone": "(310) 431-9873",
+    "website": "https://www.wonderbrettstore.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Atomic Budz",
+    "original_name": "Atomic Budz",
+    "address": "36063 Cathedral Canyon Dr, Cathedral City, CA 92234",
+    "phone": "(760) 322-4481",
+    "website": "http://www.atomicbudz.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Atrium Valley Village",
+    "original_name": "Atrium Valley Village",
+    "address": "12458 Magnolia Blvd, Valley Village, CA 91607",
+    "phone": "(818) 452-9055",
+    "website": "https://www.atriumstore.com",
+    "google_place_id": null
+  },
+  {
+    "name": "StashDash",
+    "original_name": "Atwater Retail Partners DBA StashDash",
+    "address": "3172 Glendale Blvd, Los Angeles, CA 90039",
+    "phone": "(323) 372-9709",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Big Sur Cannabotanicals",
+    "original_name": "Big Sur Cannabotanicals",
+    "address": "26352 Carmel Rancho Ln, STE 100, Carmel, CA 93923",
+    "phone": "(831) 250-7756",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Bishop Boyz",
+    "original_name": "Bishop Boyz",
+    "address": "7503 Laurel Canyon Blvd, North Hollywood, CA 91605",
+    "phone": "(818) 579-4800",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Cana Beverly",
+    "original_name": "Cana Beverly",
+    "address": "8430 Beverly Blvd, Los Angeles, CA 90048",
+    "phone": "(310) 431-9415",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Cannablue Tahoe",
+    "original_name": "Cannablue Tahoe",
+    "address": "2179 Lake Tahoe Blvd, South Lake Tahoe, CA 96150",
+    "phone": "(530) 420-7777",
+    "website": "https://cannablue.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Cannatopia Gardens (Cana Sylmar)",
+    "original_name": "Cannatopia Gardens (Cana Sylmar)",
+    "address": "13509 Hubbard St, Sylmar, CA 91342",
+    "phone": "(818) 384-2522",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Compassionate Patient Resources",
+    "original_name": "Compassionate Patient Resources Inc",
+    "address": "18526 Parthenia St, Northridge, CA 91324",
+    "phone": "(818) 996-4277",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Cornerstone Research Collective",
+    "original_name": "Cornerstone Research Collective",
+    "address": "2551 Colorado Blvd, Los Angeles, CA 90041",
+    "phone": "(323) 259-8933",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "EVOLV (Herbal Solution SC)",
+    "original_name": "EVOLV AKA Herbal Solution SC",
+    "address": "25937 S Western Ave, Lomita, CA 90717",
+    "phone": "(310) 504-2700",
+    "website": "https://www.evolvcannabis.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Foothill Wellness Center",
+    "original_name": "FWC - Foothill Wellness Center",
+    "address": "7132 Foothill Blvd, Tujunga, CA 91042",
+    "phone": "(818) 352-3388",
+    "website": "https://www.foothillwellnesscenter.com",
+    "google_place_id": null
+  },
+  {
+    "name": "GDinLA (We Roll Up LA)",
+    "original_name": "GDinLA, Inc.",
+    "address": "11834 Jefferson Blvd, Culver City, CA 90230",
+    "phone": "(310) 751-6113",
+    "website": "https://werollup.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Seaweed SF",
+    "original_name": "Grassy Grove LLC - Seaweed SF",
+    "address": "245 Jefferson St, Ste 103, San Francisco, CA 94133",
+    "phone": "(415) 857-9050",
+    "website": "https://www.seaweedsf.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Green Angel (MMR Center Inc.)",
+    "original_name": "Green Angel AKA MMR Center Inc.",
+    "address": "14000 Ventura Blvd, Sherman Oaks, CA 91423",
+    "phone": "(818) 646-0221",
+    "website": "https://greenangelwla.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Cana Harbor (Green Earth Pharmacy Inc.)",
+    "original_name": "Green Earth Pharmacy Inc.",
+    "address": "1227 W 253rd St, Harbor City, CA 90710",
+    "phone": "(424) 305-4416",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Green Goddess",
+    "original_name": "Green Goddess",
+    "address": "1716 Main St, Venice, CA 90291",
+    "phone": "(310) 396-7770",
+    "website": "https://greengoddesscollective.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Harvest Corner",
+    "original_name": "Harvest Corner, LLC",
+    "address": "1034 W Ramsey St, Unit A, Banning, CA 92220",
+    "phone": "(951) 267-3521",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Herbal Remedies Caregivers",
+    "original_name": "Herbal Relief Caregivers Inc.",
+    "address": "12423 Gladstone Ave, Sylmar, CA 91342",
+    "phone": "(818) 928-7207",
+    "website": "https://herbalremediessylmar.com",
+    "google_place_id": null
+  },
+  {
+    "name": "High Seas Costa Mesa",
+    "original_name": "High Seas - Costa Mesa",
+    "address": "1921 Harbor Blvd, Costa Mesa, CA 92627",
+    "phone": "(424) 732-9333",
+    "website": "https://shophighseas.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Nela Rd - Los Feliz (Vermont Ave)",
+    "original_name": "JS Reserve DBA Nela Rd (Vermont Ave)",
+    "address": "1870 N Vermont Ave, Los Angeles, CA 90027",
+    "phone": null,
+    "website": "https://nelard.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Nela Rd - Highland Park (York Blvd)",
+    "original_name": "JS Reserve DBA Nela Rd. (York Blvd)",
+    "address": "5839 York Blvd, Los Angeles, CA 90042",
+    "phone": "(323) 739-6008",
+    "website": "https://nelard.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Benzeen Co.",
+    "original_name": "La Brea Connection DBA Benzeen Co.",
+    "address": "360 S La Brea Ave, Los Angeles, CA 90036",
+    "phone": "(323) 272-3778",
+    "website": "http://benzeenlabrea.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Legendary Organics Oxnard",
+    "original_name": "Legendary Organics Oxnard",
+    "address": "2561 E Vineyard Ave, Oxnard, CA 93036",
+    "phone": "(805) 351-2334",
+    "website": "https://legendaryorganics.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Legendary Organics Thousand Oaks",
+    "original_name": "Legendary Organics Thousand Oaks, LLC",
+    "address": "1339 Lawrence Dr, Thousand Oaks, CA 91320",
+    "phone": "(805) 277-7798",
+    "website": "https://legendaryorganics.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Lemonnade Pacoima",
+    "original_name": "Lemonnade Pacoima",
+    "address": "12800 Wentworth St, Arleta, CA 91331",
+    "phone": "(747) 223-2430",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "MedMen DTLA",
+    "original_name": "MedMen DTLA",
+    "address": "735 S Broadway, Los Angeles, CA 90014",
+    "phone": "(213) 908-2244",
+    "website": "https://medmen.com",
+    "google_place_id": null
+  },
+  {
+    "name": "MedMen LAX (Nature's Cure)",
+    "original_name": "MedMen LAX/Nature's Cure",
+    "address": "8740 S Sepulveda Blvd, Ste 105, Los Angeles, CA 90045",
+    "phone": "(424) 290-8030",
+    "website": "https://medmen.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Medical Caregivers Company",
+    "original_name": "Medical Caregivers Cooperative",
+    "address": "1039 N Mission Rd, Los Angeles, CA 90033",
+    "phone": "(323) 576-2153",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Mystika",
+    "original_name": "Mystika",
+    "address": "1763 Ethanac Rd, Perris, CA 92570",
+    "phone": "(951) 436-0250",
+    "website": "http://www.mystikaflower.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Oakanna",
+    "original_name": "Oakanna",
+    "address": "3238 Lakeshore Ave, Oakland, CA 94610",
+    "phone": "(510) 285-6393",
+    "website": "https://oakanna.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Harborside San Jose",
+    "original_name": "San Jose Wellness DBA Harborside",
+    "address": "1365 N 10th St, San Jose, CA 95112",
+    "phone": "(669) 321-2751",
+    "website": "https://www.shopharborside.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Shambala Healing Center",
+    "original_name": "Shambala Healing Center, Inc.",
+    "address": "2441 Mission St, San Francisco, CA 94110",
+    "phone": "(415) 509-8664",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Siesta Life Encinitas",
+    "original_name": "Siesta Life Encinitas",
+    "address": "1038 S Coast Hwy 101, Encinitas, CA 92024",
+    "phone": "(760) 210-0563",
+    "website": "https://www.siestalifeencinitas.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Weedway (St. Andrews Green)",
+    "original_name": "St. Andrews Green DBA Weedway",
+    "address": "7031 Foothill Blvd, Tujunga, CA 91042",
+    "phone": "(818) 221-9801",
+    "website": "https://www.weedway.com",
+    "google_place_id": null
+  },
+  {
+    "name": "The Circle - Long Beach",
+    "original_name": "The Circle - Long Beach",
+    "address": "1755 Ximeno Ave, Long Beach, CA 90815",
+    "phone": "(562) 498-0993",
+    "website": "http://www.thecirclelbc.com",
+    "google_place_id": null
+  },
+  {
+    "name": "The Ounce",
+    "original_name": "The Ounce",
+    "address": "11032 Magnolia Blvd, North Hollywood, CA 91601",
+    "phone": "(747) 273-9573",
+    "website": "https://the-ounce.com",
+    "google_place_id": null
+  },
+  {
+    "name": "The Set Hollywood",
+    "original_name": "The Set Hollywood",
+    "address": "2110 Hillhurst Ave, Los Angeles, CA 90027",
+    "phone": "(323) 284-8336",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "The Syndicate - Lake Elsinore",
+    "original_name": "The Syndicate Lake Elsinore",
+    "address": "504 Central Ave, Lake Elsinore, CA 92530",
+    "phone": "(951) 471-5021",
+    "website": "https://socalthesyndicate.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Toasty Costa Mesa",
+    "original_name": "Toasty CA (Costa Mesa)",
+    "address": "2801 Harbor Blvd, Costa Mesa, CA 92626",
+    "phone": "(949) 444-7999",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Traditional LAX",
+    "original_name": "Traditional LAX",
+    "address": "6200 W Manchester Ave, Los Angeles, CA 90045",
+    "phone": "(310) 910-0113",
+    "website": "https://www.traditional.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Traditional Mid City",
+    "original_name": "Traditional Mid City",
+    "address": "4665 W Pico Blvd, Los Angeles, CA 90019",
+    "phone": "(310) 910-0113",
+    "website": "https://www.traditional.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Trees Hollywood",
+    "original_name": "Trees Hollywood",
+    "address": "1503 N Mariposa Ave, Los Angeles, CA 90027",
+    "phone": "(323) 300-8002",
+    "website": "https://treeshollywood.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Union Cannabis Club",
+    "original_name": "Union Cannabis Club",
+    "address": "2030 Union St, San Francisco, CA 94123",
+    "phone": "(415) 796-3610",
+    "website": "http://www.unioncannabisclub.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Velvet Cannabis - Napa",
+    "original_name": "Velvet Napa, Inc.",
+    "address": "2449 2nd St, Napa, CA 94559",
+    "phone": "(707) 681-0599",
+    "website": "https://www.velvetcannabis.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Eaze - Budget King, LLC",
+    "original_name": "Eaze - Budget King, LLC",
+    "address": null,
+    "phone": null,
+    "website": "https://www.eaze.com",
+    "google_place_id": null,
+    "note": "Online delivery hub - no physical retail storefront"
+  },
+  {
+    "name": "Eaze - EZSD - Delivery",
+    "original_name": "Eaze - EZSD - Delivery",
+    "address": null,
+    "phone": null,
+    "website": "https://www.eaze.com",
+    "google_place_id": null,
+    "note": "Online delivery hub - no physical retail storefront"
+  },
+  {
+    "name": "Eaze - Fume Cotati",
+    "original_name": "Eaze - Fume Cotati",
+    "address": null,
+    "phone": null,
+    "website": "https://www.eaze.com",
+    "google_place_id": null,
+    "note": "Online delivery hub - no physical retail storefront"
+  },
+  {
+    "name": "Eaze - Hometown Heart East Bay",
+    "original_name": "Eaze - Hometown Heart East Bay",
+    "address": null,
+    "phone": null,
+    "website": "https://www.eaze.com",
+    "google_place_id": null,
+    "note": "Online delivery hub - no physical retail storefront"
+  },
+  {
+    "name": "Eaze - Orange County (Healthy Healing Holistic Options)",
+    "original_name": "Eaze - Orange County - Healthy Healing Holistic Options, Inc",
+    "address": null,
+    "phone": null,
+    "website": "https://www.eaze.com",
+    "google_place_id": null,
+    "note": "Online delivery hub - no physical retail storefront"
+  },
+  {
+    "name": "Eaze Lincoln - CS Group Operation 2, Inc.",
+    "original_name": "Eaze Lincoln - CS Group Operation 2, Inc.",
+    "address": null,
+    "phone": null,
+    "website": "https://www.eaze.com",
+    "google_place_id": null,
+    "note": "Online delivery hub - no physical retail storefront"
+  },
+  {
+    "name": "Eaze Silver Lake",
+    "original_name": "Eaze Silver Lake",
+    "address": null,
+    "phone": null,
+    "website": "https://www.eaze.com",
+    "google_place_id": null,
+    "note": "Online delivery hub - no physical retail storefront"
+  },
+  {
+    "name": "Eaze Van Nuys",
+    "original_name": "Eaze Van Nuys",
+    "address": null,
+    "phone": null,
+    "website": "https://www.eaze.com",
+    "google_place_id": null,
+    "note": "Online delivery hub - no physical retail storefront"
+  },
+  {
+    "name": "Eaze - Hometown Heart San Francisco",
+    "original_name": "Eaze- Hometown Heart San Francisco",
+    "address": null,
+    "phone": null,
+    "website": "https://www.eaze.com",
+    "google_place_id": null,
+    "note": "Online delivery hub - no physical retail storefront"
+  },
+  {
+    "name": "Pounds, Inc (Next Level Distro)",
+    "original_name": "Pounds, Inc (Next Level Distro)",
+    "address": null,
+    "phone": null,
+    "website": null,
+    "google_place_id": null,
+    "note": "Distributor, not a retail dispensary"
+  },
+  {
+    "name": "Bloc Dispensary - Waretown",
+    "original_name": "Bloc (Waretown)",
+    "address": "501 US-9, Waretown, NJ 08758",
+    "phone": "(973) 494-8550",
+    "website": "https://www.blocdispensary.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Brotherly Bud",
+    "original_name": "Brotherly Bud",
+    "address": "500 N Black Horse Pike, Mount Ephraim, NJ 08059",
+    "phone": "(908) 936-3739",
+    "website": "https://brotherlybudnj.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Castaway Cannabis",
+    "original_name": "Castaway Cannabis",
+    "address": "6006 US-130, Delran, NJ 08075",
+    "phone": "(856) 544-3029",
+    "website": "https://www.castawaycanna.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Cottonmouth Dispensary",
+    "original_name": "Cotton Mouth Dispensary",
+    "address": "10 E Clements Bridge Rd, Runnemede, NJ 08078",
+    "phone": "(856) 312-3877",
+    "website": "https://getcottonmouth.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Cuzzie's Dispensary & Delivery",
+    "original_name": "Cuzzies Dispensary",
+    "address": "2750 Mt Ephraim Ave, Camden, NJ 08104",
+    "phone": "(832) 899-4374",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Dank Poet Dispensary",
+    "original_name": "Dank Poet Dispensary",
+    "address": "245 E Washington Ave, Washington, NJ 07882",
+    "phone": "(908) 450-9900",
+    "website": "https://dankpoet.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Evergreen Nature's Remedy",
+    "original_name": "Evergreen Nature's Remedy",
+    "address": "1242 NJ-23, Butler, NJ 07405",
+    "phone": "(973) 291-2500",
+    "website": "https://evergreen23.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Frosted Nug - Carneys Point",
+    "original_name": "Frosted Nug (Carneys Point)",
+    "address": "16 N Golfwood Ave, Carneys Point, NJ 08069",
+    "phone": "(856) 376-3359",
+    "website": "https://frostednug.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Ginger Hale",
+    "original_name": "Ginger Hale",
+    "address": "814 White Horse Pike, Suite C, Oaklyn, NJ 08107",
+    "phone": "(856) 856-4253",
+    "website": "https://www.gingerhaledispensary.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Green Leaf Wellness Solutions",
+    "original_name": "Green Leaf Wellness",
+    "address": "4 S Black Horse Pike, Williamstown, NJ 08094",
+    "phone": "(609) 579-9511",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Gynsyng",
+    "original_name": "Gynsyng",
+    "address": "14 S Centre St, Merchantville, NJ 08109",
+    "phone": "(908) 275-0385",
+    "website": "https://www.gynsyng.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Happy Leaf Dispensary - Somerdale",
+    "original_name": "Happy Leaf Dispensary",
+    "address": "200 N White Horse Pike, Somerdale, NJ 08083",
+    "phone": "(856) 545-7024",
+    "website": "https://happyleafdispensarynj.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Hashery",
+    "original_name": "Hashery",
+    "address": "409 NJ-17, Hackensack, NJ 07601",
+    "phone": "(201) 606-0002",
+    "website": "https://hasherynj.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Hello High Dispensary",
+    "original_name": "Hello High",
+    "address": "7685 Black Horse Pike, Hammonton, NJ 08037",
+    "phone": "(609) 567-4444",
+    "website": "https://hellohigh.com",
+    "google_place_id": null
+  },
+  {
+    "name": "The Jersey Joint",
+    "original_name": "Jersey Joint",
+    "address": "11 State St, Glassboro, NJ 08028",
+    "phone": "(856) 462-4910",
+    "website": "https://www.jerseyjointdispensary.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Jersey Roots Dispensary",
+    "original_name": "Jersey Roots",
+    "address": "1433 Union Valley Rd, West Milford, NJ 07480",
+    "phone": "(973) 506-4853",
+    "website": "https://www.jerseyrootsdispensary.com",
+    "google_place_id": null
+  },
+  {
+    "name": "MPX NJ - Pennsauken",
+    "original_name": "MPX (Pennsauken)",
+    "address": "5035 Central Hwy, Pennsauken Township, NJ 08109",
+    "phone": "(848) 206-5060",
+    "website": "https://mpxnj.com",
+    "google_place_id": null
+  },
+  {
+    "name": "MPX NJ - Gloucester Township",
+    "original_name": "MPX NJ (Gloucester Township)",
+    "address": "581 Berlin-Cross Keys Rd, Sicklerville, NJ 08081",
+    "phone": "(848) 292-2764",
+    "website": "https://mpxnj.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Midnight Greens",
+    "original_name": "Midnight Greens",
+    "address": "5100 NJ-42 N, Unit 1, Washington Township, NJ 08012",
+    "phone": "(856) 818-5335",
+    "website": "https://midnightgreensnj.com",
+    "google_place_id": null
+  },
+  {
+    "name": "One Green Leaf",
+    "original_name": "One Green Leaf",
+    "address": "95 N Lakeview Dr, Gibbsboro, NJ 08026",
+    "phone": "(856) 344-2879",
+    "website": "https://onegreenleafdispensary.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Public Cannabis Absecon",
+    "original_name": "Public Cannabis Absecon",
+    "address": "792A White Horse Pike, Absecon, NJ 08201",
+    "phone": "(609) 241-0447",
+    "website": "https://yourpublic.co",
+    "google_place_id": null
+  },
+  {
+    "name": "ReLeaf Cannabis (Williamstown)",
+    "original_name": "ReLeaf Canna",
+    "address": "1024 S Black Horse Pike, Unit A, Williamstown, NJ 08094",
+    "phone": "(856) 516-8187",
+    "website": "https://releafcanna.shop",
+    "google_place_id": null
+  },
+  {
+    "name": "Sea & Leaf Dispensary",
+    "original_name": "Sea & Leaf",
+    "address": "3860 Bayshore Rd, North Cape May, NJ 08204",
+    "phone": "(609) 551-2750",
+    "website": "https://seaandleaf.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Shipwreck'd Cannabis",
+    "original_name": "Shipwreck'd",
+    "address": "300 W Sylvania Ave, Ste 6, Neptune City, NJ 07753",
+    "phone": "(732) 481-3136",
+    "website": "https://www.shipwreckd.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SilverLeaf Wellness",
+    "original_name": "SilverLeaf Wellness",
+    "address": "1743 NJ-27, Suite 2, Somerset, NJ 08873",
+    "phone": "(732) 655-9842",
+    "website": "https://silverleafnj.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SunnyTien Dispensary",
+    "original_name": "SunnyTien",
+    "address": "3004 Atlantic Ave, Atlantic City, NJ 08401",
+    "phone": "(609) 428-6235",
+    "website": "https://www.sunnytien.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Taste of Earth Dispensary",
+    "original_name": "Taste of Earth",
+    "address": "108 Wheat Rd, Buena, NJ 08310",
+    "phone": "(856) 457-7935",
+    "website": "https://tasteofearth.co",
+    "google_place_id": null
+  },
+  {
+    "name": "The Social Leaf",
+    "original_name": "The Social Leaf",
+    "address": "334/336 Atlantic City Blvd, South Toms River, NJ 08757",
+    "phone": "(732) 358-6800",
+    "website": "https://thesocialleaf.com",
+    "google_place_id": null
+  },
+  {
+    "name": "The Station Hoboken",
+    "original_name": "The Station Hoboken",
+    "address": "86 River St, Hoboken, NJ 07030",
+    "phone": "(201) 876-2950",
+    "website": "https://www.thestationhoboken.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Voltaire Dispensary",
+    "original_name": "Voltaire NJ",
+    "address": "47 Mill St, Mount Holly, NJ 08060",
+    "phone": "(609) 702-5520",
+    "website": "https://www.shopvoltaire.com",
+    "google_place_id": null
+  }
+]

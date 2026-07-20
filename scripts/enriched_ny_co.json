@@ -1,0 +1,667 @@
+[
+  {
+    "name": "202 Cannabis Co",
+    "address": "81 W Ramapo Rd, Garnerville, NY 10923",
+    "phone": "(845) 915-7003",
+    "website": "https://202cannabisco.com",
+    "google_place_id": null
+  },
+  {
+    "name": "716 Cannabis",
+    "address": "5161 Camp Rd, Hamburg, NY 14075",
+    "phone": "(716) 584-3123",
+    "website": "https://716cannabisllc.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Black Market Cannabis",
+    "address": "89 Main St, Poughkeepsie, NY 12601",
+    "phone": "(845) 204-6224",
+    "website": "https://blackmarketcanna.co",
+    "google_place_id": null
+  },
+  {
+    "name": "Bliss & Lex",
+    "address": "128 E 86th St, New York, NY 10028",
+    "phone": "(212) 401-5677",
+    "website": "https://blissandlex.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Buffalo Dreams",
+    "address": "900 Niagara Falls Blvd, Buffalo, NY 14223",
+    "phone": "(716) 466-2351",
+    "website": "https://shopbuffalodreams.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Cannabis Depot - Murrock Circle",
+    "address": "23171 Murrock Cir, Watertown, NY 13601",
+    "phone": "(315) 785-9420",
+    "website": "https://cannabisdepot420.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Cannabis Realm of New York - Spring Valley",
+    "address": "76 NY-59, Spring Valley, NY 10977",
+    "phone": "(845) 920-9420",
+    "website": "https://cannabisrealmny.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Cannabis Realm of New York - White Plains",
+    "address": "475 Central Ave, White Plains, NY 10606",
+    "phone": "(914) 222-0775",
+    "website": "https://cannabisrealmny.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Chronic Brooklyn",
+    "address": "483 3rd Ave, Brooklyn, NY 11215",
+    "phone": "(718) 576-3423",
+    "website": "https://chronicbrooklyn.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Collegetown",
+    "address": "105 Dryden Rd, Ithaca, NY 14850",
+    "phone": "(607) 241-9138",
+    "website": "https://www.collegetowndispensary.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Culture House",
+    "address": "958 6th Ave, New York, NY 10001",
+    "phone": "(212) 704-8080",
+    "website": "https://culturehousenyc.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Cussins Cannabis",
+    "address": "2075 Central Ave, Schenectady, NY 12304",
+    "phone": "(518) 313-4200",
+    "website": "https://cussinscanna.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Easy Jay's Cannabis",
+    "address": "279 East Main St, Port Jervis, NY 12771",
+    "phone": "(845) 672-0282",
+    "website": "https://easyjayscannabis.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Elevation HQ",
+    "address": "701 8th Ave, New York, NY 10036",
+    "phone": "(646) 360-3668",
+    "website": "https://elevationhqnyc.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Gaslight Dispensary",
+    "address": "465 Forest Ave, Staten Island, NY 10301",
+    "phone": "(718) 528-7558",
+    "website": "https://gaslightdispensary.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Good Life Collective FLX",
+    "address": "155 Monroe Ave, Rochester, NY 14607",
+    "phone": "(585) 360-2031",
+    "website": "https://goodlifeweed.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Hampton Premium Green",
+    "address": "978 Montauk Hwy, Water Mill, NY 11976",
+    "phone": "(631) 294-9105",
+    "website": "https://hamptonpremiumgreen.com",
+    "google_place_id": null
+  },
+  {
+    "name": "High Rollers",
+    "address": "909 State Rte 9, Ste 3, Queensbury, NY 12804",
+    "phone": "(518) 853-7070",
+    "website": "https://nyhighrollers.com",
+    "google_place_id": null
+  },
+  {
+    "name": "High Stone",
+    "address": "1938 Clove Rd, Staten Island, NY 10304",
+    "phone": "(929) 598-5130",
+    "website": "https://highstone.nyc",
+    "google_place_id": null
+  },
+  {
+    "name": "Kings House of Fire",
+    "address": "3006 E Main St, Cortlandt Manor, NY 10567",
+    "phone": "(914) 402-6500",
+    "website": "https://www.kingshouseoffire.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Loud Pack Exotics",
+    "address": "6606 Kinne Rd, Syracuse, NY 13214",
+    "phone": "(315) 299-4323",
+    "website": "https://loudpackexotics.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Lucky Green Ladies",
+    "address": "365 S Wall St, Kingston, NY 12401",
+    "phone": "(845) 933-2525",
+    "website": "https://luckygreenladies.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Luxus Botanica",
+    "address": "8234 Turin Rd, Ste 1, Rome, NY 13440",
+    "phone": "(315) 314-9333",
+    "website": "https://luxusbotanica.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Madame Jane Cannabis",
+    "address": "102 State St, Schenectady, NY 12305",
+    "phone": "(518) 860-2077",
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "Mighty Lucky",
+    "address": "259 Bowery, New York, NY 10002",
+    "phone": "(646) 901-6399",
+    "website": "https://mighty-lucky.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Nicklz - Times Square",
+    "address": "797 8th Ave, New York, NY 10019",
+    "phone": "(646) 386-7972",
+    "website": "https://nicklzny.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Puff Theory Cannabis",
+    "address": "221 Oriskany St E, Utica, NY 13501",
+    "phone": "(315) 275-7833",
+    "website": "https://pufftheorycannabis.com",
+    "google_place_id": null
+  },
+  {
+    "name": "StashMaster NYC",
+    "address": "1119 Broadway, Brooklyn, NY 11221",
+    "phone": "(929) 549-0737",
+    "website": "https://stashmasternyc.com",
+    "google_place_id": null
+  },
+  {
+    "name": "State of Mind - Latham",
+    "address": "521 Troy-Schenectady Rd, Latham, NY 12110",
+    "phone": "(518) 330-9673",
+    "website": "https://itssom.com",
+    "google_place_id": null
+  },
+  {
+    "name": "State of Mind Dispensary - Albany",
+    "address": "351 Southern Blvd, Albany, NY 12209",
+    "phone": "(518) 330-9673",
+    "website": "https://itssom.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Superfly",
+    "address": "57 W 86th St, New York, NY 10024",
+    "phone": "(646) 398-7896",
+    "website": "https://hellosuperfly.com",
+    "google_place_id": null
+  },
+  {
+    "name": "The Cannabis Reserve",
+    "address": "1307 North Ave, New Rochelle, NY 10804",
+    "phone": "(914) 427-7722",
+    "website": "https://www.thereservenewyork.com",
+    "google_place_id": null
+  },
+  {
+    "name": "The Flowery - Upper West Side",
+    "address": "2465 Broadway, New York, NY 10025",
+    "phone": "(718) 554-4109",
+    "website": "https://www.thefloweryny.com",
+    "google_place_id": null
+  },
+  {
+    "name": "The Village Green Dispensary",
+    "address": "41 New Hartford Shopping Center, New Hartford, NY 13413",
+    "phone": "(315) 316-0823",
+    "website": "https://villagegreendispensary.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Transcend Wellness",
+    "address": "289 Oakwood Ave, Troy, NY 12182",
+    "phone": "(518) 874-1244",
+    "website": "https://transcendwps.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Treehouse Cannabis",
+    "address": "28 NY-59, Nyack, NY 10960",
+    "phone": "(845) 358-8733",
+    "website": "https://www.treehousecannabis.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Twinn Leaf",
+    "address": "566 7th Ave, New York, NY 10018",
+    "phone": "(646) 998-4477",
+    "website": "https://twinnleafnyc.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Windy Hill Wellness Cannabis Dispensary - Glens Falls",
+    "address": "130 Broad St, Ste 7 & 8, Glens Falls, NY 12801",
+    "phone": "(518) 223-0369",
+    "website": "https://windyhillwellness.com",
+    "google_place_id": null
+  },
+  {
+    "name": "World Piece",
+    "address": "3162 Lake Rd, Ste 4, Horseheads, NY 14845",
+    "phone": "(607) 215-0090",
+    "website": "https://worldpieceshop.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Colorado Core (all stores)",
+    "address": null,
+    "phone": null,
+    "website": null,
+    "google_place_id": null
+  },
+  {
+    "name": "EDW - 6th Ave (Aurora)",
+    "address": "15225 E 6th Ave, Aurora, CO 80011",
+    "phone": "(720) 458-6950",
+    "website": "https://everydayweed.com",
+    "google_place_id": null
+  },
+  {
+    "name": "EDW - Aurora",
+    "address": "10100 E Montview Blvd, Aurora, CO 80010",
+    "phone": "(720) 459-7143",
+    "website": "https://everydayweed.com",
+    "google_place_id": null
+  },
+  {
+    "name": "EDW - Breckenridge",
+    "address": "1795 Airport Rd, #A3, Breckenridge, CO 80424",
+    "phone": "(970) 453-4900",
+    "website": "https://everydayweed.com",
+    "google_place_id": null
+  },
+  {
+    "name": "EDW - Brighton",
+    "address": "560 N 7th Ave, Brighton, CO 80601",
+    "phone": "(720) 668-9823",
+    "website": "https://everydayweed.com",
+    "google_place_id": null
+  },
+  {
+    "name": "EDW - Central Boulder",
+    "address": "1750 30th St, Unit 7, Boulder, CO 80301",
+    "phone": "(720) 446-5490",
+    "website": "https://everydayweed.com",
+    "google_place_id": null
+  },
+  {
+    "name": "EDW - Commerce City",
+    "address": "5844 Dahlia St, Commerce City, CO 80022",
+    "phone": "(303) 999-0401",
+    "website": "https://everydayweed.com",
+    "google_place_id": null
+  },
+  {
+    "name": "EDW - DU (Dispensary)",
+    "address": "1640 E Evans Ave, Denver, CO 80210",
+    "phone": "(303) 975-6485",
+    "website": "https://everydayweed.com",
+    "google_place_id": null
+  },
+  {
+    "name": "EDW - Federal Heights",
+    "address": "9000 N Federal Blvd, Westminster, CO 80260",
+    "phone": "(303) 353-9993",
+    "website": "https://everydayweed.com",
+    "google_place_id": null
+  },
+  {
+    "name": "EDW - Fort Collins - College Ave",
+    "address": "804 S College Ave C, Fort Collins, CO 80524",
+    "phone": "(970) 225-5421",
+    "website": "https://everydayweed.com",
+    "google_place_id": null
+  },
+  {
+    "name": "EDW - Fort Collins - Smithfield",
+    "address": "813 Smithfield Dr, #8581, Fort Collins, CO 80524",
+    "phone": "(970) 225-5420",
+    "website": "https://everydayweed.com",
+    "google_place_id": null
+  },
+  {
+    "name": "EDW - NW Denver/Pecos",
+    "address": "1451 Cortez St, Denver, CO 80221",
+    "phone": "(303) 429-9196",
+    "website": "https://everydayweed.com",
+    "google_place_id": null
+  },
+  {
+    "name": "EF - South Boulder",
+    "address": "5190 S Boulder Rd, Boulder, CO 80303",
+    "phone": "(303) 499-2898",
+    "website": "https://emeraldfields.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Green Dragon - Aspen",
+    "address": "409 E Hyman Ave, Aspen, CO 81611",
+    "phone": "(970) 429-4365",
+    "website": "https://greendragon.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Green Dragon - Capitol Hill (Grant)",
+    "address": "1250 Grant St, Denver, CO 80203",
+    "phone": "(720) 505-5887",
+    "website": "https://greendragon.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Green Dragon - Central Denver (Byers Place)",
+    "address": "930 W Byers Pl, Denver, CO 80223",
+    "phone": "(970) 480-0660",
+    "website": "https://greendragon.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Green Dragon - Colfax (East Denver)",
+    "address": "5130 E Colfax Ave, Denver, CO 80220",
+    "phone": "(720) 458-6450",
+    "website": "https://greendragon.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Green Dragon - Edgewater",
+    "address": "2467 Sheridan Blvd, Edgewater, CO 80214",
+    "phone": "(970) 480-0640",
+    "website": "https://greendragon.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Green Dragon - Mile High",
+    "address": "1845 Federal Blvd, Denver, CO 80204",
+    "phone": "(970) 315-0032",
+    "website": "https://greendragon.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Green Dragon - Sheridan (West Denver)",
+    "address": "4103 Sheridan Blvd, Denver, CO 80212",
+    "phone": "(720) 458-6650",
+    "website": "https://greendragon.com",
+    "google_place_id": null
+  },
+  {
+    "name": "Green Dragon - Telluride",
+    "address": "119 W Colorado Ave, Telluride, CO 81435",
+    "phone": "(970) 422-1422",
+    "website": "https://greendragon.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Berthoud",
+    "address": "1015 N 2nd St, Berthoud, CO 80513",
+    "phone": "(970) 344-5060",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Broomfield",
+    "address": "137 Nickel St, Broomfield, CO 80020",
+    "phone": "(720) 756-2385",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Buckley",
+    "address": "19201 E Colfax Ave, Aurora, CO 80011",
+    "phone": "(303) 366-1077",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Central Park",
+    "address": "3955 Oneida St, Denver, CO 80207",
+    "phone": "(720) 573-4735",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Colorado Blvd",
+    "address": "2020 S Colorado Blvd, Denver, CO 80222",
+    "phone": "(303) 758-9114",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Cortez",
+    "address": "1819 E Main St, Cortez, CO 81321",
+    "phone": "(970) 565-9577",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Federal Heights",
+    "address": "8860 Federal Blvd, #66E, Federal Heights, CO 80260",
+    "phone": "(720) 612-4343",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Fort Collins",
+    "address": "900 N College Ave, Fort Collins, CO 80524",
+    "phone": "(970) 484-8380",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Garden City",
+    "address": "2647 8th Ave, Garden City, CO 80631",
+    "phone": "(970) 616-6007",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Lakewood",
+    "address": "3600 S Wadsworth Blvd, Lakewood, CO 80235",
+    "phone": "(303) 484-8853",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Log Lane",
+    "address": "130 Maine St, Ste B, Log Lane Village, CO 80705",
+    "phone": "(970) 867-7867",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Peoria",
+    "address": "1401 Peoria St, Aurora, CO 80010",
+    "phone": "(303) 993-7548",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Pueblo North",
+    "address": "2565 N I-25 Exit 104, Pueblo, CO 81008",
+    "phone": "(719) 306-0042",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Tower Road",
+    "address": "6651 N Tower Rd, Ste 120, Denver, CO 80249",
+    "phone": "(720) 524-8273",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell - Uptown",
+    "address": "706 E 17th Ave, Ste 102, Denver, CO 80203",
+    "phone": "(303) 952-9150",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell – DTC",
+    "address": "7795 E Belleview Ave, #2, Denver, CO 80237",
+    "phone": "(720) 756-7881",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "LivWell – RiNo",
+    "address": "2863 Larimer St, Denver, CO 80205",
+    "phone": "(303) 484-1662",
+    "website": "https://livwell.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Arapahoe",
+    "address": "14655 E Arapahoe Rd, Aurora, CO 80016",
+    "phone": "(303) 699-1222",
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Belmar",
+    "address": "265 S Wadsworth Blvd, Lakewood, CO 80226",
+    "phone": "(720) 669-3515",
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Boulder",
+    "address": "1750 30th St, Unit 12, Boulder, CO 80301",
+    "phone": "(720) 612-4382",
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Colorado Springs",
+    "address": "510 E Pikes Peak Ave, Colorado Springs, CO 80903",
+    "phone": null,
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Fort Collins",
+    "address": "5740 S College Ave, Unit A, Fort Collins, CO 80525",
+    "phone": null,
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Garden City",
+    "address": "2502 8th Ave, Garden City, CO 80631",
+    "phone": null,
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Glendale",
+    "address": "492 S Colorado Blvd, Glendale, CO 80246",
+    "phone": null,
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Highlands",
+    "address": "2675 W 38th Ave, Denver, CO 80211",
+    "phone": null,
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Lakeside",
+    "address": "5238 W 44th Ave, Denver, CO 80212",
+    "phone": null,
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Longmont",
+    "address": "7521 Ute Hwy, #66, Longmont, CO 80503",
+    "phone": null,
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Louisville",
+    "address": "1156 W Dillon Rd, Louisville, CO 80027",
+    "phone": null,
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Manitou Springs",
+    "address": "27 Manitou Ave, Manitou Springs, CO 80829",
+    "phone": null,
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Niwot",
+    "address": "6924 N 79th St, Niwot, CO 80503",
+    "phone": null,
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - North Denver",
+    "address": "4690 Brighton Blvd, Denver, CO 80216",
+    "phone": "(720) 387-8952",
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Pueblo",
+    "address": "4305 Thatcher Ave, Pueblo, CO 81005",
+    "phone": null,
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Pueblo West",
+    "address": "428 S McCulloch Blvd, Pueblo West, CO 81007",
+    "phone": null,
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Quincy (Aurora)",
+    "address": "19151 E Quincy Ave, Aurora, CO 80015",
+    "phone": "(303) 400-1451",
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  },
+  {
+    "name": "SB - Thornton",
+    "address": "5823 E 128th Ave, Thornton, CO 80602",
+    "phone": null,
+    "website": "https://starbudscolorado.com",
+    "google_place_id": null
+  }
+]

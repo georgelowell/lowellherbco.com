@@ -62,6 +62,19 @@ for mstate in ["NJ", "nj", "New Jersey"]:
             if mstate not in all_customers[n]["states"]:
                 all_customers[n]["states"].append(mstate)
 
+# IL: brand_name=Lowell filter (is_lowell column is null for IL data)
+print("Querying IL from market DB...")
+rows = query_safe(f"{MARKET_URL}/rest/v1/fact_sell_in_orders", hdr(MARKET_KEY), "account_name",
+    [f"delivery_state=eq.IL", f"delivery_date=gte.{cutoff}", f"brand_name=eq.Lowell"])
+print(f"  IL: {len(rows)} rows")
+for row in rows:
+    n = row.get("account_name")
+    if n:
+        if n not in all_customers:
+            all_customers[n] = {"states": []}
+        if "IL" not in all_customers[n]["states"]:
+            all_customers[n]["states"].append("IL")
+
 print(f"\nTotal unique: {len(all_customers)}")
 
 print("Fetching retailer_details...")

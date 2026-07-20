@@ -1,0 +1,222 @@
+{
+  "new_jersey": [
+    "Bloc (Waretown)",
+    "Brotherly Bud",
+    "Castaway Cannabis",
+    "Cotton Mouth Dispensary",
+    "Cuzzies Dispensary",
+    "Dank Poet Dispensary",
+    "Evergreen Nature's Remedy",
+    "Frosted Nug (Carneys Point)",
+    "Ginger Hale",
+    "Green Leaf Wellness",
+    "Gynsyng",
+    "Happy Leaf Dispensary",
+    "Hashery",
+    "Hello High",
+    "Jersey Joint",
+    "Jersey Roots",
+    "MPX (Pennsauken)",
+    "MPX NJ (Gloucester Township)",
+    "Midnight Greens",
+    "One Green Leaf",
+    "Public Cannabis Absecon",
+    "ReLeaf Canna",
+    "Sea & Leaf",
+    "Shipwreck'd",
+    "SilverLeaf Wellness",
+    "SunnyTien",
+    "Taste of Earth",
+    "The Social Leaf",
+    "The Station Hoboken",
+    "Voltaire NJ"
+  ],
+  "illinois": [],
+  "nj_details": {
+    "Evergreen Nature's Remedy": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "MPX (Pennsauken)": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Bloc (Waretown)": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Public Cannabis Absecon": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Sea & Leaf": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Happy Leaf Dispensary": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Castaway Cannabis": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Midnight Greens": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "The Station Hoboken": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Cotton Mouth Dispensary": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Shipwreck'd": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Dank Poet Dispensary": {
+      "delivery_states": [
+        "NJ",
+        "New Jersey"
+      ],
+      "source": "lovegrow"
+    },
+    "Jersey Roots": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "One Green Leaf": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Cuzzies Dispensary": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "ReLeaf Canna": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Brotherly Bud": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Taste of Earth": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "MPX NJ (Gloucester Township)": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "SilverLeaf Wellness": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "The Social Leaf": {
+      "delivery_states": [
+        "NJ",
+        "New Jersey"
+      ],
+      "source": "lovegrow"
+    },
+    "Gynsyng": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "SunnyTien": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Green Leaf Wellness": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Frosted Nug (Carneys Point)": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Ginger Hale": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Hashery": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Jersey Joint": {
+      "delivery_states": [
+        "NJ"
+      ],
+      "source": "lovegrow"
+    },
+    "Voltaire NJ": {
+      "delivery_states": [
+        "NJ",
+        "New Jersey"
+      ],
+      "source": "lovegrow"
+    },
+    "Hello High": {
+      "delivery_states": [
+        "New Jersey"
+      ],
+      "source": "lovegrow"
+    }
+  },
+  "il_details": {},
+  "updated": "2026-07-19"
+}

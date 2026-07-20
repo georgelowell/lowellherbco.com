@@ -81,6 +81,106 @@
       "google_place_id": "ChIJUdacPLV104kRos9dLMUox7k"
     },
     {
+      "name": "Ascend IL (Adams Street)",
+      "states": [
+        "IL"
+      ],
+      "address": "628 E. Adams St, Springfield, IL 62701",
+      "phone": "(217) 679-3283",
+      "website": "https://letsascend.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ascend IL (Ascend - Tinley Park)",
+      "states": [
+        "IL"
+      ],
+      "address": "16200 S Harlem Ave, Tinley Park, IL 60477",
+      "phone": "(312) 535-5720",
+      "website": "https://letsascend.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ascend IL (Ascend Outlet - Northlake)",
+      "states": [
+        "IL"
+      ],
+      "address": "39 W North Avenue, Northlake, IL 60164",
+      "phone": "(708) 786-4317",
+      "website": "https://letsascend.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ascend IL (Chicago Ridge)",
+      "states": [
+        "IL"
+      ],
+      "address": "9820 S. Ridgeland Ave, Chicago Ridge, IL 60415",
+      "phone": "(872) 250-3890",
+      "website": "https://letsascend.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ascend IL (Collinsville)",
+      "states": [
+        "IL"
+      ],
+      "address": "1014 Eastport Plaza Dr, Collinsville, IL 62234",
+      "phone": "(312) 535-3905",
+      "website": "https://letsascend.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ascend IL (Fairview Heights)",
+      "states": [
+        "IL"
+      ],
+      "address": "114 Commerce Ln, Fairview Heights, IL 62208",
+      "phone": "(217) 492-8030",
+      "website": "https://letsascend.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ascend IL (Horizon Drive)",
+      "states": [
+        "IL"
+      ],
+      "address": "3201 Horizon Dr, Springfield, IL 62703",
+      "phone": "(217) 492-8182",
+      "website": "https://letsascend.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ascend IL (Logan Square)",
+      "states": [
+        "IL"
+      ],
+      "address": "2367 N Milwaukee Ave, Chicago, IL 60647",
+      "phone": "(708) 722-1488",
+      "website": "https://letsascend.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ascend IL (Midway Chicago)",
+      "states": [
+        "IL"
+      ],
+      "address": "5650 S Archer Ave, Chicago, IL 60638",
+      "phone": "(872) 267-7038",
+      "website": "https://letsascend.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ascend IL (River North)",
+      "states": [
+        "IL"
+      ],
+      "address": "216 W Ohio St, Chicago, IL 60654",
+      "phone": "(708) 722-1009",
+      "website": "https://letsascend.com",
+      "google_place_id": null
+    },
+    {
       "name": "Atomic Budz",
       "states": [
         "CA"
@@ -161,6 +261,26 @@
       "google_place_id": null
     },
     {
+      "name": "Bisa Lina (Carol Stream)",
+      "states": [
+        "IL"
+      ],
+      "address": "720 E North Ave, Carol Stream, IL 60188",
+      "phone": "(630) 332-8822",
+      "website": "https://bisalina.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Bisa Lina (Joliet)",
+      "states": [
+        "IL"
+      ],
+      "address": "2121 W Jefferson St, Joliet, IL 60435",
+      "phone": "(815) 418-0200",
+      "website": "https://bisalina.com",
+      "google_place_id": null
+    },
+    {
       "name": "Bishop Boyz",
       "states": [
         "CA"
@@ -198,6 +318,66 @@
       "address": null,
       "phone": null,
       "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Bloom Wellness Dispensary (Hometown)",
+      "states": [
+        "IL"
+      ],
+      "address": "4140 SW Hwy, Hometown, IL 60456",
+      "phone": "(708) 549-0420",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Bloom Wellness Dispensary (Normal (Bradford Lane))",
+      "states": [
+        "IL"
+      ],
+      "address": "1730 Bradford Ln, Normal, IL 61761",
+      "phone": "(309) 571-1420",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Bloom Wellness Dispensary (Normal (Northbrook Drive))",
+      "states": [
+        "IL"
+      ],
+      "address": "1609 Northbrook Dr, Suite 3, Normal, IL 61761",
+      "phone": "(309) 232-8134",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Bloom Wellness Dispensary (Quincy EAST (4440))",
+      "states": [
+        "IL"
+      ],
+      "address": "4440 Broadway, Quincy, IL 62305",
+      "phone": "(217) 214-6337",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Bloom Wellness Dispensary (Quincy West (1837))",
+      "states": [
+        "IL"
+      ],
+      "address": "1837 Broadway, Quincy, IL 62301",
+      "phone": "(217) 214-4372",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Bridge City Collective (East Dubuque)",
+      "states": [
+        "IL"
+      ],
+      "address": "122 Sinsinawa Ave, East Dubuque, IL 61025",
+      "phone": "(563) 207-4123",
+      "website": "https://bridgecitycollective.com",
       "google_place_id": null
     },
     {
@@ -401,6 +581,26 @@
       "google_place_id": null
     },
     {
+      "name": "Cannabist IL (Chicago)",
+      "states": [
+        "IL"
+      ],
+      "address": "4758 N Milwaukee Ave, Chicago, IL 60630",
+      "phone": "(312) 948-9082",
+      "website": "https://www.gocannabist.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Cannabist IL (Villa Park)",
+      "states": [
+        "IL"
+      ],
+      "address": "133 Roosevelt Rd, Suite G, Villa Park, IL 60181",
+      "phone": "(630) 396-3261",
+      "website": "https://www.gocannabist.com",
+      "google_place_id": null
+    },
+    {
       "name": "Cannablue Tahoe",
       "states": [
         "CA"
@@ -471,6 +671,56 @@
       "google_place_id": null
     },
     {
+      "name": "Cloud 9 Cannabis (Champaign)",
+      "states": [
+        "IL"
+      ],
+      "address": "505 W Town Center Blvd, Champaign, IL 61822",
+      "phone": "(217) 599-6543",
+      "website": "https://cloud9cannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Cloud 9 Cannabis (East Peoria)",
+      "states": [
+        "IL"
+      ],
+      "address": "406 W Camp St, East Peoria, IL 61611",
+      "phone": "(309) 427-8943",
+      "website": "https://cloud9cannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Cloud 9 Cannabis (Edwardsville)",
+      "states": [
+        "IL"
+      ],
+      "address": "2341 Plum St, Edwardsville, IL 62025",
+      "phone": "(618) 717-8304",
+      "website": "https://cloud9cannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Cloud 9 Cannabis (Oswego)",
+      "states": [
+        "IL"
+      ],
+      "address": "2420 US Highway 30, Oswego, IL 60543",
+      "phone": "(331) 282-2594",
+      "website": "https://cloud9cannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Cloud 9 Cannabis (Schmburg)",
+      "states": [
+        "IL"
+      ],
+      "address": "1823 West Wise Road, Schaumburg, IL 60193",
+      "phone": null,
+      "website": "https://cloud9cannabis.com",
+      "google_place_id": null
+    },
+    {
       "name": "Cloud 914",
       "states": [
         "NY"
@@ -531,6 +781,66 @@
       "google_place_id": "ChIJdaqyrctZwokREz5ONq6R12k"
     },
     {
+      "name": "Consume IL (Antioch)",
+      "states": [
+        "IL"
+      ],
+      "address": "453 Main St, Antioch, IL 60002",
+      "phone": "(224) 788-7801",
+      "website": "https://consumecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Consume IL (Carbondale)",
+      "states": [
+        "IL"
+      ],
+      "address": "201 East Main St, Carbondale, IL 62901",
+      "phone": "(618) 238-2300",
+      "website": "https://consumecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Consume IL (Chicago)",
+      "states": [
+        "IL"
+      ],
+      "address": "6428 N Milwaukee Ave, Chicago, IL 60631",
+      "phone": "(872) 304-3113",
+      "website": "https://consumecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Consume IL (Marion)",
+      "states": [
+        "IL"
+      ],
+      "address": "8195 Express Dr, Marion, IL 62959",
+      "phone": "(618) 969-8217",
+      "website": "https://consumecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Consume IL (Oakbrook Terrace)",
+      "states": [
+        "IL"
+      ],
+      "address": "1S130 Summit Ave, Oakbrook Terrace, IL 60181",
+      "phone": "(630) 598-4900",
+      "website": "https://consumecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Consume IL (St. Charles)",
+      "states": [
+        "IL"
+      ],
+      "address": "584 S Randall Rd, St. Charles, IL 60174",
+      "phone": "(630) 931-2800",
+      "website": "https://consumecannabis.com",
+      "google_place_id": null
+    },
+    {
       "name": "Cornerstone Research Collective",
       "states": [
         "CA"
@@ -579,6 +889,86 @@
       "phone": "(917) 580-3807",
       "website": "https://www.culturehousenyc.com/",
       "google_place_id": "ChIJR4SJ0VVZwokRQ9RQi2QVc3o"
+    },
+    {
+      "name": "Curaleaf IL (Deerfield)",
+      "states": [
+        "IL"
+      ],
+      "address": "677 Lake Cook Rd, Deerfield, IL 60015",
+      "phone": "(847) 686-2821",
+      "website": "https://curaleaf.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Curaleaf IL (Justice)",
+      "states": [
+        "IL"
+      ],
+      "address": "8340 South Roberts Rd, Justice, IL 60458",
+      "phone": "(708) 793-8100",
+      "website": "https://curaleaf.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Curaleaf IL (New Lenox)",
+      "states": [
+        "IL"
+      ],
+      "address": "709 East Lincoln Highway, New Lenox, IL 60451",
+      "phone": "(708) 258-1141",
+      "website": "https://curaleaf.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Curaleaf IL (Northbrook)",
+      "states": [
+        "IL"
+      ],
+      "address": "755 Skokie Blvd, Northbrook, IL 60062",
+      "phone": "(224) 269-4545",
+      "website": "https://curaleaf.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Curaleaf IL (Skokie)",
+      "states": [
+        "IL"
+      ],
+      "address": "10000 Skokie Blvd, Skokie, IL 60077",
+      "phone": "(224) 707-9072",
+      "website": "https://curaleaf.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Curaleaf IL (Weed Street)",
+      "states": [
+        "IL"
+      ],
+      "address": "923 West Weed St, Chicago, IL 60642",
+      "phone": "(872) 249-0246",
+      "website": "https://curaleaf.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Curaleaf IL (Westmont)",
+      "states": [
+        "IL"
+      ],
+      "address": "11 E Ogden Ave, Westmont, IL 60559",
+      "phone": null,
+      "website": "https://curaleaf.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Curaleaf IL (Worth)",
+      "states": [
+        "IL"
+      ],
+      "address": "11425 South Harlem Ave, Worth, IL 60482",
+      "phone": "(708) 586-7600",
+      "website": "https://curaleaf.com",
+      "google_place_id": null
     },
     {
       "name": "Cussins Cannabis",
@@ -642,6 +1032,26 @@
       "google_place_id": "ChIJI7st5ifz2YkRiEmParFr28k"
     },
     {
+      "name": "Dispensary 33 (D33 1152 - W. Randolph)",
+      "states": [
+        "IL"
+      ],
+      "address": "1152 W Randolph St, Chicago, IL 60607",
+      "phone": "(312) 767-5663",
+      "website": "https://dispensary33.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Dispensary 33 (D33 5001 - N. Clark)",
+      "states": [
+        "IL"
+      ],
+      "address": "5001 N Clark St, Chicago, IL 60640",
+      "phone": "(312) 620-3333",
+      "website": "https://dispensary33.com",
+      "google_place_id": null
+    },
+    {
       "name": "Domes Dispensary",
       "states": [
         "NY"
@@ -650,6 +1060,56 @@
       "phone": "(845) 768-3805",
       "website": "https://www.domesdispensary.com/?utm_source=GBP&utm_medium=organic&utm_campaign=Kingston_GBP",
       "google_place_id": "ChIJm87KTK0F3YkR8wanj-FeEhk"
+    },
+    {
+      "name": "Dutchess IL (Batavia)",
+      "states": [
+        "IL"
+      ],
+      "address": "144 S Randall Rd, Batavia, IL 60510",
+      "phone": "(331) 264-6121",
+      "website": "https://dutchesscanna.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Dutchess IL (Lynwood)",
+      "states": [
+        "IL"
+      ],
+      "address": "20513 Torrence Ave, Lynwood, IL 60411",
+      "phone": null,
+      "website": "https://dutchesscanna.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Dutchess IL (Morton Grove)",
+      "states": [
+        "IL"
+      ],
+      "address": "6761 Dempster St, Morton Grove, IL 60053",
+      "phone": "(847) 268-3180",
+      "website": "https://dutchesscanna.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Dutchess IL (North Riverside)",
+      "states": [
+        "IL"
+      ],
+      "address": "8380 Cermak Rd, North Riverside, IL 60546",
+      "phone": "(708) 323-1799",
+      "website": "https://dutchesscanna.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Dutchess IL (Oak Park)",
+      "states": [
+        "IL"
+      ],
+      "address": "1142 Lake St, Oak Park, IL 60301",
+      "phone": "(708) 898-4180",
+      "website": "https://dutchesscanna.com",
+      "google_place_id": null
     },
     {
       "name": "Dutchess Roots",
@@ -789,6 +1249,36 @@
       "address": null,
       "phone": null,
       "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "EarthMed (Addison)",
+      "states": [
+        "IL"
+      ],
+      "address": "852 S Westgate Ave, Addison, IL 60101",
+      "phone": "(630) 607-0796",
+      "website": "https://earthmed.com",
+      "google_place_id": null
+    },
+    {
+      "name": "EarthMed (McHenry)",
+      "states": [
+        "IL"
+      ],
+      "address": "1711 N Richmond Rd, McHenry, IL 60050",
+      "phone": "(779) 244-5817",
+      "website": "https://earthmed.com",
+      "google_place_id": null
+    },
+    {
+      "name": "EarthMed (Rosemont)",
+      "states": [
+        "IL"
+      ],
+      "address": "10441 E Touhy Ave, Rosemont, IL 60018",
+      "phone": "(224) 275-9333",
+      "website": "https://earthmed.com",
       "google_place_id": null
     },
     {
@@ -960,6 +1450,16 @@
       "phone": "(518) 357-3059",
       "website": "https://www.evexiacannabis.com/",
       "google_place_id": "ChIJgZdR0yQR3okRQCYf8nEFgT4"
+    },
+    {
+      "name": "Excelleaf (Dekalb)",
+      "states": [
+        "IL"
+      ],
+      "address": "305 E Locust Ave, Dekalb, IL 60115",
+      "phone": "(815) 421-3501",
+      "website": "https://excelleaf.com",
+      "google_place_id": null
     },
     {
       "name": "FWC - Foothill Wellness Center",
@@ -1272,6 +1772,26 @@
       "google_place_id": "ChIJnc4y9-4P04kRuGlWEObYWaY"
     },
     {
+      "name": "Green Releaf IL (Villa Park)",
+      "states": [
+        "IL"
+      ],
+      "address": "305 W North Ave, Villa Park, IL 60181",
+      "phone": "(331) 225-0986",
+      "website": "https://greenreleafdispensary.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Green Temple (Troy)",
+      "states": [
+        "IL"
+      ],
+      "address": "904 Edwardsville Rd, Troy, IL 62294",
+      "phone": "(618) 505-0054",
+      "website": "https://shopgreentemple.com",
+      "google_place_id": null
+    },
+    {
       "name": "Grounded",
       "states": [
         "NY"
@@ -1280,6 +1800,16 @@
       "phone": "(845) 240-1244",
       "website": "https://hvgrounded.com/?utm_source=google&utm_medium=organic&utm_campaign=google-business-profile",
       "google_place_id": "ChIJ1zE_DW0V3YkRRrb_eDlnHnM"
+    },
+    {
+      "name": "Guaranteed Dispensary IL (Chicago)",
+      "states": [
+        "IL"
+      ],
+      "address": "620 N Fairbanks Ct, Chicago, IL 60611",
+      "phone": "(312) 363-3414",
+      "website": "https://guaranteeddispensary.com",
+      "google_place_id": null
     },
     {
       "name": "Gynsyng",
@@ -1352,6 +1882,26 @@
       "google_place_id": null
     },
     {
+      "name": "Hatch (Addison)",
+      "states": [
+        "IL"
+      ],
+      "address": "1433 W Fullerton Ave C, Addison, IL 60101",
+      "phone": "(630) 519-1300",
+      "website": "https://gohatch.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Hatch (Wheeling)",
+      "states": [
+        "IL"
+      ],
+      "address": "1500 E Lake Cook Rd, Wheeling, IL 60090",
+      "phone": "(224) 434-2320",
+      "website": "https://gohatch.com",
+      "google_place_id": null
+    },
+    {
       "name": "Haze and Harvest",
       "states": [
         "NY"
@@ -1369,6 +1919,16 @@
       "address": null,
       "phone": null,
       "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Herb Social (Lawrenceville)",
+      "states": [
+        "IL"
+      ],
+      "address": "616 12th St, Lawrenceville, IL 62439",
+      "phone": "(773) 360-3545",
+      "website": "https://herbsocial.com",
       "google_place_id": null
     },
     {
@@ -1420,6 +1980,36 @@
       "phone": "(347) 448-6396",
       "website": "http://highcityny.com/",
       "google_place_id": "ChIJQXqzKltfwokRWIWZ6KoUEUY"
+    },
+    {
+      "name": "High Haven IL (Darien)",
+      "states": [
+        "IL"
+      ],
+      "address": "8131 S Cass Ave, Darien, IL 60561",
+      "phone": "(331) 777-9993",
+      "website": "https://highhavencannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "High Haven IL (Elgin)",
+      "states": [
+        "IL"
+      ],
+      "address": "15 Clock Tower Plaza, Elgin, IL 60120",
+      "phone": "(224) 238-3328",
+      "website": "https://highhavencannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "High Haven IL (Normal)",
+      "states": [
+        "IL"
+      ],
+      "address": null,
+      "phone": "(309) 585-2500",
+      "website": "https://highhavencannabis.com",
+      "google_place_id": null
     },
     {
       "name": "High Rollers",
@@ -1512,6 +2102,106 @@
       "google_place_id": "ChIJZyr1-vKLwokRUMny7B1SKqU"
     },
     {
+      "name": "Ivy Hall (Bolingbrook)",
+      "states": [
+        "IL"
+      ],
+      "address": "361 S Bolingbrook Dr, Bolingbrook, IL 60440",
+      "phone": "(855) 489-4255",
+      "website": "https://ivyhalldispensary.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ivy Hall (Bucktown)",
+      "states": [
+        "IL"
+      ],
+      "address": "1720 N Damen Ave, Chicago, IL 60647",
+      "phone": "(855) 489-4255",
+      "website": "https://ivyhalldispensary.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ivy Hall (Crystal Lake)",
+      "states": [
+        "IL"
+      ],
+      "address": "501 Pingree Rd, Crystal Lake, IL 60014",
+      "phone": "(855) 489-4255",
+      "website": "https://ivyhalldispensary.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ivy Hall (Edwardsville)",
+      "states": [
+        "IL"
+      ],
+      "address": "6197 Old Alton Edwardsville Rd, Edwardsville, IL 62025",
+      "phone": "(855) 489-4255",
+      "website": "https://ivyhalldispensary.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ivy Hall (Glendale Heights)",
+      "states": [
+        "IL"
+      ],
+      "address": "2130 Bloomingdale Rd Unit B, Glendale Heights, IL 60139",
+      "phone": "(855) 489-4255",
+      "website": "https://ivyhalldispensary.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ivy Hall (Logan Square)",
+      "states": [
+        "IL"
+      ],
+      "address": "3115 W Armitage Ave, Chicago, IL 60647",
+      "phone": "(855) 489-4255",
+      "website": "https://ivyhalldispensary.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ivy Hall (Montgomery)",
+      "states": [
+        "IL"
+      ],
+      "address": "1970 Caterpillar Dr, Montgomery, IL 60538",
+      "phone": "(855) 489-4255",
+      "website": "https://ivyhalldispensary.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ivy Hall (Peoria)",
+      "states": [
+        "IL"
+      ],
+      "address": "3929 W War Memorial Dr, Peoria, IL 61615",
+      "phone": "(855) 489-4255",
+      "website": "https://ivyhalldispensary.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ivy Hall (Streamwood)",
+      "states": [
+        "IL"
+      ],
+      "address": "630 S Sutton Rd, Streamwood, IL 60107",
+      "phone": "(855) 489-4255",
+      "website": "https://ivyhalldispensary.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ivy Hall (Wkegan)",
+      "states": [
+        "IL"
+      ],
+      "address": "996 S Waukegan Rd, Waukegan, IL 60085",
+      "phone": "(855) 489-4255",
+      "website": "https://ivyhalldispensary.com",
+      "google_place_id": null
+    },
+    {
       "name": "JS Reserve DBA Nela Rd (Vermont Ave)",
       "states": [
         "CA"
@@ -1572,6 +2262,16 @@
       "google_place_id": "ChIJ7fococtF6IkR1YPVcKG1ctY"
     },
     {
+      "name": "Karma Club Chicago (Chicago)",
+      "states": [
+        "IL"
+      ],
+      "address": "1590 N Clybourn Ave, Chicago, IL 60642",
+      "phone": "(312) 500-4787",
+      "website": "https://karmaclubchicago.com",
+      "google_place_id": null
+    },
+    {
       "name": "Kaya Bliss - Bay Ridge",
       "states": [
         "NY"
@@ -1599,6 +2299,16 @@
       "address": "3006 E Main St, Cortlandt Manor, NY 10567",
       "phone": "(914) 402-6500",
       "website": "https://www.kingshouseoffire.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Kush21 (Jacksonville)",
+      "states": [
+        "IL"
+      ],
+      "address": "1112 Veterans Dr, Jacksonville, IL 62650",
+      "phone": "(217) 408-1246",
+      "website": "https://kush21.com",
       "google_place_id": null
     },
     {
@@ -1922,6 +2632,16 @@
       "google_place_id": "ChIJCZoHHwbBwokRWHXedbHqHAc"
     },
     {
+      "name": "Lux Leaf IL (Matteson)",
+      "states": [
+        "IL"
+      ],
+      "address": "5539 Miller Circle Dr, Matteson, IL 60443",
+      "phone": "(708) 905-4500",
+      "website": "https://luxleafdispensary.com",
+      "google_place_id": null
+    },
+    {
       "name": "Luxus Botanica",
       "states": [
         "NY"
@@ -1929,6 +2649,16 @@
       "address": "8234 Turin Rd, Ste 1, Rome, NY 13440",
       "phone": "(315) 314-9333",
       "website": "https://luxusbotanica.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Lyfe (Rockford)",
+      "states": [
+        "IL"
+      ],
+      "address": "6774 Troy Dr, Rockford, IL 61107",
+      "phone": "(815) 713-2900",
+      "website": "https://lyfeil.com",
       "google_place_id": null
     },
     {
@@ -2132,6 +2862,26 @@
       "google_place_id": "ChIJGU57EYjv04kRI6imXtmDCho"
     },
     {
+      "name": "Mystic Greenz (Decatur)",
+      "states": [
+        "IL"
+      ],
+      "address": "5045 Indus Dr, Decatur, IL 62522",
+      "phone": "(217) 451-0057",
+      "website": "https://mysticgreenz.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Mystic Greenz (Lincoln)",
+      "states": [
+        "IL"
+      ],
+      "address": "1120 Woodlawn Rd, Lincoln, IL 62656",
+      "phone": "(217) 651-6969",
+      "website": "https://mysticgreenz.com",
+      "google_place_id": null
+    },
+    {
       "name": "Mystika",
       "states": [
         "CA"
@@ -2172,6 +2922,16 @@
       "google_place_id": "ChIJox-DvopZwokR7ETzd1uq8MU"
     },
     {
+      "name": "Natures Treatment of Illinois (Galesburg)",
+      "states": [
+        "IL"
+      ],
+      "address": "735 W Main St, Galesburg, IL 61401",
+      "phone": "(309) 315-4684",
+      "website": "https://www.ntillinois.com",
+      "google_place_id": null
+    },
+    {
       "name": "New Amsterdam",
       "states": [
         "NY"
@@ -2209,6 +2969,76 @@
       "address": "797 8th Ave, New York, NY 10019",
       "phone": "(646) 386-7972",
       "website": "https://nicklzny.com",
+      "google_place_id": null
+    },
+    {
+      "name": "NuEra (Chicago)",
+      "states": [
+        "IL"
+      ],
+      "address": "1308 W North Ave, Chicago, IL 60642",
+      "phone": "(773) 687-8480",
+      "website": "https://nueracannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "NuEra (Dekalb)",
+      "states": [
+        "IL"
+      ],
+      "address": "818 W Lincoln Hwy Spc 7, DeKalb, IL 60115",
+      "phone": "(779) 270-2054",
+      "website": "https://nueracannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "NuEra (East Dubuque)",
+      "states": [
+        "IL"
+      ],
+      "address": "20170 US Hwy 20 W, East Dubuque, IL 61025",
+      "phone": "(815) 888-7220",
+      "website": "https://nueracannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "NuEra (East Peoria)",
+      "states": [
+        "IL"
+      ],
+      "address": "504 Riverside Dr, East Peoria, IL 61611",
+      "phone": "(309) 839-1330",
+      "website": "https://nueracannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "NuEra (Pekin)",
+      "states": [
+        "IL"
+      ],
+      "address": "3249 Court St, Pekin, IL 61554",
+      "phone": "(309) 201-4086",
+      "website": "https://nueracannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "NuEra (Urbana)",
+      "states": [
+        "IL"
+      ],
+      "address": "105 E University Ave, Urbana, IL 61801",
+      "phone": null,
+      "website": "https://nueracannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "NuEra (rora)",
+      "states": [
+        "IL"
+      ],
+      "address": "1415 Corporate Blvd, Aurora, IL 60502",
+      "phone": "(331) 301-5606",
+      "website": "https://nueracannabis.com",
       "google_place_id": null
     },
     {
@@ -2269,6 +3099,16 @@
       "address": null,
       "phone": null,
       "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Prairie Cannabis (South Loop)",
+      "states": [
+        "IL"
+      ],
+      "address": "622 W Roosevelt Rd, Chicago, IL 60605",
+      "phone": "(312) 763-6052",
+      "website": "https://prairiecannabis.com",
       "google_place_id": null
     },
     {
@@ -2339,6 +3179,116 @@
       "address": null,
       "phone": null,
       "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Rise Illinois (Canton)",
+      "states": [
+        "IL"
+      ],
+      "address": "3104 N Main St, Canton, IL 61520",
+      "phone": "(309) 647-9333",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Rise Illinois (Charleston - IL)",
+      "states": [
+        "IL"
+      ],
+      "address": "909 Lincoln Ave, Charleston, IL 61920",
+      "phone": "(217) 284-6077",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Rise Illinois (Effingham)",
+      "states": [
+        "IL"
+      ],
+      "address": "1011 Ford Ave, Suite C, Effingham, IL 62401",
+      "phone": "(217) 727-7715",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Rise Illinois (Joliet - Colorado Ave)",
+      "states": [
+        "IL"
+      ],
+      "address": "2903 Colorado Ave, Joliet, IL 60431",
+      "phone": "(815) 733-1167",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Rise Illinois (Joliet - Rock Creek Blvd)",
+      "states": [
+        "IL"
+      ],
+      "address": "1627 Rock Creek Blvd, Joliet, IL 60431",
+      "phone": "(815) 773-9300",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Rise Illinois (Mundelein)",
+      "states": [
+        "IL"
+      ],
+      "address": "1325 Armour Blvd, Mundelein, IL 60060",
+      "phone": "(847) 616-8966",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Rise Illinois (Naperville)",
+      "states": [
+        "IL"
+      ],
+      "address": "1700 Quincy Ave #103, Naperville, IL 60540",
+      "phone": "(630) 369-4000",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Rise Illinois (Niles)",
+      "states": [
+        "IL"
+      ],
+      "address": "9621 N Milwaukee Ave, Niles, IL 60714",
+      "phone": "(815) 900-2227",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Rise Illinois (Quincy)",
+      "states": [
+        "IL"
+      ],
+      "address": "2703 Broadway St, Quincy, IL 62301",
+      "phone": "(217) 214-7473",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Rise Illinois (Village of Lake in the Hills)",
+      "states": [
+        "IL"
+      ],
+      "address": "270 N Randall Rd, Lake in the Hills, IL 60156",
+      "phone": "(847) 999-3063",
+      "website": "https://risecannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "River Bluff Cannabis Inc (Roselle)",
+      "states": [
+        "IL"
+      ],
+      "address": "1350 Lake St, Roselle, IL 60172",
+      "phone": "(847) 306-9916",
+      "website": "https://riverbluffcannabis.com",
       "google_place_id": null
     },
     {
@@ -2602,6 +3552,16 @@
       "google_place_id": "ChIJj3Sus3PL1okRqmImccEwnhA"
     },
     {
+      "name": "Seven Point (Danville)",
+      "states": [
+        "IL"
+      ],
+      "address": "380 Eastgate Dr, Danville, IL 61834",
+      "phone": "(217) 481-3420",
+      "website": "https://www.sevenpoint.org",
+      "google_place_id": null
+    },
+    {
       "name": "Shambala Healing Center, Inc.",
       "states": [
         "CA"
@@ -2662,6 +3622,46 @@
       "google_place_id": "ChIJWSIe55FZwokRGAt4ejHscY0"
     },
     {
+      "name": "Smokehouse (Fox Lake)",
+      "states": [
+        "IL"
+      ],
+      "address": "44 S US Highway 12, Fox Lake, IL 60020",
+      "phone": "(855) 765-4873",
+      "website": "https://smokehouse.shop",
+      "google_place_id": null
+    },
+    {
+      "name": "Snap Canna (Elk Grove Village)",
+      "states": [
+        "IL"
+      ],
+      "address": "840 E Higgins Rd, Elk Grove Village, IL 60007",
+      "phone": "(224) 265-0136",
+      "website": "https://snapcanna.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Snap Canna (Pontiac)",
+      "states": [
+        "IL"
+      ],
+      "address": "1910 W Reynolds St, Unit A, Pontiac, IL 61764",
+      "phone": "(815) 357-7627",
+      "website": "https://snapcanna.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Sociale Dispensary (Park Ridge)",
+      "states": [
+        "IL"
+      ],
+      "address": "1036 W Higgins Rd, Park Ridge, IL 60068",
+      "phone": "(847) 318-3277",
+      "website": "https://socialedispensary.com",
+      "google_place_id": null
+    },
+    {
       "name": "Sofaclub - East Village",
       "states": [
         "NY"
@@ -2682,6 +3682,46 @@
       "google_place_id": "ChIJ2R_TDI5bwokRY6MIgNE47kQ"
     },
     {
+      "name": "Sparkd (Richmond)",
+      "states": [
+        "IL"
+      ],
+      "address": "9705 Prairie Ridge Rd, Richmond, IL 60071",
+      "phone": "(815) 800-0120",
+      "website": "https://www.sparkdcannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Sparkd (Wabash)",
+      "states": [
+        "IL"
+      ],
+      "address": "2114 S Wabash Ave, Chicago, IL 60616",
+      "phone": "(312) 253-1504",
+      "website": "https://www.sparkdcannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Sparkd (Wicker Park)",
+      "states": [
+        "IL"
+      ],
+      "address": "1212 N Ashland Ave, Chicago, IL 60622",
+      "phone": "(708) 856-8924",
+      "website": "https://www.sparkdcannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Sparkd (Winthrop Harbor)",
+      "states": [
+        "IL"
+      ],
+      "address": "935 Sheridan Rd, Winthrop Harbor, IL 60096",
+      "phone": "(224) 678-0087",
+      "website": "https://www.sparkdcannabis.com",
+      "google_place_id": null
+    },
+    {
       "name": "St. Andrews Green DBA Weedway",
       "states": [
         "CA"
@@ -2700,6 +3740,26 @@
       "phone": "(914) 370-2942",
       "website": "https://starlifedispensary.com/",
       "google_place_id": "ChIJpUosVwCVwokR0f-dlXgrxTM"
+    },
+    {
+      "name": "Stash IL (Orland Hills)",
+      "states": [
+        "IL"
+      ],
+      "address": "9545 W 167th St, Orland Hills, IL 60487",
+      "phone": "(708) 428-2296",
+      "website": "https://stashdispensaries.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Stash IL (Peru)",
+      "states": [
+        "IL"
+      ],
+      "address": "1320 38th St, Peru, IL 61354",
+      "phone": "(815) 224-1137",
+      "website": "https://stashdispensaries.com",
+      "google_place_id": null
     },
     {
       "name": "StashMaster NYC",
@@ -2762,6 +3822,106 @@
       "google_place_id": null
     },
     {
+      "name": "Sunnyside Illinois (Buffalo Grove)",
+      "states": [
+        "IL"
+      ],
+      "address": "830 Milwaukee Ave, Buffalo Grove, IL 60089",
+      "phone": "(847) 495-2397",
+      "website": "https://www.sunnyside.shop",
+      "google_place_id": null
+    },
+    {
+      "name": "Sunnyside Illinois (Champaign)",
+      "states": [
+        "IL"
+      ],
+      "address": "1704 S Neil St Suite C, Champaign, IL 61820",
+      "phone": "(217) 305-4009",
+      "website": "https://www.sunnyside.shop",
+      "google_place_id": null
+    },
+    {
+      "name": "Sunnyside Illinois (Danville)",
+      "states": [
+        "IL"
+      ],
+      "address": "369 Lynch Dr, Danville, IL 61834",
+      "phone": "(217) 903-3576",
+      "website": "https://www.sunnyside.shop",
+      "google_place_id": null
+    },
+    {
+      "name": "Sunnyside Illinois (Elmwood Park)",
+      "states": [
+        "IL"
+      ],
+      "address": "7955 W Grand Ave, Elmwood Park, IL 60707",
+      "phone": "(708) 402-8975",
+      "website": "https://www.sunnyside.shop",
+      "google_place_id": null
+    },
+    {
+      "name": "Sunnyside Illinois (Naperville)",
+      "states": [
+        "IL"
+      ],
+      "address": "2740 W 75th St, Naperville, IL 60564",
+      "phone": "(630) 884-8061",
+      "website": "https://www.sunnyside.shop",
+      "google_place_id": null
+    },
+    {
+      "name": "Sunnyside Illinois (River North)",
+      "states": [
+        "IL"
+      ],
+      "address": "436 N Clark St, Chicago, IL 60654",
+      "phone": "(312) 481-7380",
+      "website": "https://www.sunnyside.shop",
+      "google_place_id": null
+    },
+    {
+      "name": "Sunnyside Illinois (Rockford)",
+      "states": [
+        "IL"
+      ],
+      "address": "2696 McFarland Rd, Rockford, IL 61107",
+      "phone": "(815) 315-0090",
+      "website": "https://www.sunnyside.shop",
+      "google_place_id": null
+    },
+    {
+      "name": "Sunnyside Illinois (Schmburg)",
+      "states": [
+        "IL"
+      ],
+      "address": "1739 E Golf Rd, Schaumburg, IL 60173",
+      "phone": "(847) 893-0460",
+      "website": "https://www.sunnyside.shop",
+      "google_place_id": null
+    },
+    {
+      "name": "Sunnyside Illinois (South Beloit)",
+      "states": [
+        "IL"
+      ],
+      "address": "7000 First Ranger Dr, South Beloit, IL 61080",
+      "phone": "(779) 771-6660",
+      "website": "https://www.sunnyside.shop",
+      "google_place_id": null
+    },
+    {
+      "name": "Sunnyside Illinois (Wrigleyville)",
+      "states": [
+        "IL"
+      ],
+      "address": "3524 N Clark St, Chicago, IL 60657",
+      "phone": "(773) 820-7280",
+      "website": "https://www.sunnyside.shop",
+      "google_place_id": null
+    },
+    {
       "name": "Superfly",
       "states": [
         "NY"
@@ -2769,6 +3929,16 @@
       "address": "57 W 86th St, New York, NY 10024",
       "phone": "(646) 398-7896",
       "website": "https://hellosuperfly.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Sway Dispensary (Chicago)",
+      "states": [
+        "IL"
+      ],
+      "address": "3340 N Halsted St, Chicago, IL 60657",
+      "phone": "(773) 638-7929",
+      "website": "https://www.everybodysway.com",
       "google_place_id": null
     },
     {
@@ -2802,6 +3972,66 @@
       "google_place_id": null
     },
     {
+      "name": "Terrabis IL (Dixon)",
+      "states": [
+        "IL"
+      ],
+      "address": "1679 S Galena Ave, Dixon, IL 61021",
+      "phone": "(815) 846-6366",
+      "website": "https://terrabis.co",
+      "google_place_id": null
+    },
+    {
+      "name": "Terrabis IL (Grayville)",
+      "states": [
+        "IL"
+      ],
+      "address": "105 Koehler Rd, Grayville, IL 62844",
+      "phone": "(314) 714-6585",
+      "website": "https://terrabis.co",
+      "google_place_id": null
+    },
+    {
+      "name": "Terrabis IL (Mundelein)",
+      "states": [
+        "IL"
+      ],
+      "address": "3210 IL-60, Mundelein, IL 60060",
+      "phone": "(847) 581-8181",
+      "website": "https://terrabis.co",
+      "google_place_id": null
+    },
+    {
+      "name": "Terrabis IL (Plainfield)",
+      "states": [
+        "IL"
+      ],
+      "address": "16020 Illinois Rte 59, Plainfield, IL 60586",
+      "phone": "(815) 846-5055",
+      "website": "https://terrabis.co",
+      "google_place_id": null
+    },
+    {
+      "name": "Terrabis IL (Woodstock)",
+      "states": [
+        "IL"
+      ],
+      "address": "601 S Eastwood Dr, Woodstock, IL 60098",
+      "phone": "(815) 846-2084",
+      "website": "https://terrabis.co",
+      "google_place_id": null
+    },
+    {
+      "name": "Terrace Cannabis (Moline)",
+      "states": [
+        "IL"
+      ],
+      "address": "2727 Avenue of the Cities, Moline, IL 61265",
+      "phone": "(309) 704-0420",
+      "website": "https://terracecannabis.com",
+      "google_place_id": null
+    },
+    {
       "name": "The Cannabis Reserve",
       "states": [
         "NY"
@@ -2830,6 +4060,16 @@
       "phone": "(917) 793-4606",
       "website": "https://thedailygreennyc.com/?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=dailygreen",
       "google_place_id": "ChIJiRUSRfJZwokRZXQ74XjGW5c"
+    },
+    {
+      "name": "The Dispensary IL (Fulton)",
+      "states": [
+        "IL"
+      ],
+      "address": "1801 16th Ave, Fulton, IL 61252",
+      "phone": "(815) 208-7701",
+      "website": "https://www.thedispensaryfulton.com",
+      "google_place_id": null
     },
     {
       "name": "The Emerald Dispensary - Bushwick",
@@ -3013,6 +4253,36 @@
       "google_place_id": null
     },
     {
+      "name": "Thrive Dispensary (Anna)",
+      "states": [
+        "IL"
+      ],
+      "address": "87 Richview Dr, Anna, IL 62906",
+      "phone": "(618) 715-0887",
+      "website": "https://thrivedispensaries.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Thrive Dispensary (Harrisburg)",
+      "states": [
+        "IL"
+      ],
+      "address": null,
+      "phone": null,
+      "website": "https://thrivedispensaries.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Thrive Dispensary (Mount Vernon)",
+      "states": [
+        "IL"
+      ],
+      "address": "800 South 45 St, Mt Vernon, IL 62864",
+      "phone": "(618) 204-0096",
+      "website": "https://thrivedispensaries.com",
+      "google_place_id": null
+    },
+    {
       "name": "Toasty CA (Costa Mesa)",
       "states": [
         "CA"
@@ -3103,6 +4373,16 @@
       "google_place_id": null
     },
     {
+      "name": "Tru Essence (Arlington Heights)",
+      "states": [
+        "IL"
+      ],
+      "address": "792 E Rand Rd, Arlington Heights, IL 60004",
+      "phone": "(847) 800-5905",
+      "website": "https://www.trueil.com",
+      "google_place_id": null
+    },
+    {
       "name": "Twinn Leaf",
       "states": [
         "NY"
@@ -3121,6 +4401,16 @@
       "phone": "(585) 337-0859",
       "website": "https://www.twistedcannabisflx.com/",
       "google_place_id": "ChIJI1Bnbwk70YkR0LgtXTRXB24"
+    },
+    {
+      "name": "UMI (Chicago)",
+      "states": [
+        "IL"
+      ],
+      "address": "2575 N Lincoln Ave, Chicago, IL 60614",
+      "phone": "(773) 770-3531",
+      "website": "https://www.umidispensary.com",
+      "google_place_id": null
     },
     {
       "name": "Union Cannabis Club",
@@ -3203,6 +4493,96 @@
       "google_place_id": "ChIJNTRxEgBZwokRQlGvGSnupoc"
     },
     {
+      "name": "VeriLife IL (60 W Superior)",
+      "states": [
+        "IL"
+      ],
+      "address": "60 W Superior St, Chicago, IL 60654",
+      "phone": "(312) 667-6247",
+      "website": "https://www.verilife.com",
+      "google_place_id": null
+    },
+    {
+      "name": "VeriLife IL (Arlington Heights)",
+      "states": [
+        "IL"
+      ],
+      "address": "1816 S Arlington Heights Rd, Arlington Heights, IL 60005",
+      "phone": "(847) 755-2992",
+      "website": "https://www.verilife.com",
+      "google_place_id": null
+    },
+    {
+      "name": "VeriLife IL (Galena)",
+      "states": [
+        "IL"
+      ],
+      "address": "115 Perry St, Galena, IL 61036",
+      "phone": "(815) 255-8715",
+      "website": "https://www.verilife.com",
+      "google_place_id": null
+    },
+    {
+      "name": "VeriLife IL (North rora)",
+      "states": [
+        "IL"
+      ],
+      "address": "2080 W Orchard Rd, North Aurora, IL 60542",
+      "phone": "(630) 264-0890",
+      "website": "https://www.verilife.com",
+      "google_place_id": null
+    },
+    {
+      "name": "VeriLife IL (Ottawa)",
+      "states": [
+        "IL"
+      ],
+      "address": "4100 Columbus St, Ottawa, IL 61350",
+      "phone": "(815) 324-9189",
+      "website": "https://www.verilife.com",
+      "google_place_id": null
+    },
+    {
+      "name": "VeriLife IL (Romeoville)",
+      "states": [
+        "IL"
+      ],
+      "address": "412 Weber Rd, Unit 4, Romeoville, IL 60446",
+      "phone": "(630) 359-3213",
+      "website": "https://www.verilife.com",
+      "google_place_id": null
+    },
+    {
+      "name": "VeriLife IL (Rosemont)",
+      "states": [
+        "IL"
+      ],
+      "address": "5540 Park Pl, Rosemont, IL 60018",
+      "phone": "(847) 233-1593",
+      "website": "https://www.verilife.com",
+      "google_place_id": null
+    },
+    {
+      "name": "VeriLife IL (Schmburg)",
+      "states": [
+        "IL"
+      ],
+      "address": "150 Barrington Rd, Schaumburg, IL 60194",
+      "phone": "(630) 332-9601",
+      "website": "https://www.verilife.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Village Dispensary (Godfrey)",
+      "states": [
+        "IL"
+      ],
+      "address": "110 Northport Dr, Godfrey, IL 62035",
+      "phone": "(618) 208-7833",
+      "website": "https://www.villagedispo.com",
+      "google_place_id": null
+    },
+    {
       "name": "Voltaire NJ",
       "states": [
         "NJ",
@@ -3242,6 +4622,46 @@
       "phone": "(518) 472-0027",
       "website": "http://www.wilderoots.com/",
       "google_place_id": "ChIJxeKO0nXj3YkRVMSQewp1siU"
+    },
+    {
+      "name": "Windy City Cannabis (Carpentersville)",
+      "states": [
+        "IL"
+      ],
+      "address": "125 S Western Ave, Carpentersville, IL 60110",
+      "phone": "(224) 722-3070",
+      "website": "https://www.windycitycannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Windy City Cannabis (Highwood)",
+      "states": [
+        "IL"
+      ],
+      "address": "260 Green Bay Rd, Highwood, IL 60040",
+      "phone": "(847) 957-3501",
+      "website": "https://www.windycitycannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Windy City Cannabis (Homewood)",
+      "states": [
+        "IL"
+      ],
+      "address": "1137 W 175th St, Homewood, IL 60430",
+      "phone": "(312) 477-3601",
+      "website": "https://www.windycitycannabis.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Windy City Cannabis (Posen)",
+      "states": [
+        "IL"
+      ],
+      "address": "2535 Veterans Dr, Posen, IL 60469",
+      "phone": "(312) 874-7039",
+      "website": "https://www.windycitycannabis.com",
+      "google_place_id": null
     },
     {
       "name": "Windy Hill Wellness Cannabis Dispensary - Glens Falls",
@@ -3285,5 +4705,5 @@
     }
   ],
   "updated": "2026-07-19",
-  "count": 328
+  "count": 470
 }

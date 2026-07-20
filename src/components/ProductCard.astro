@@ -7,7 +7,11 @@ export interface Props {
 }
 
 const { product, index } = Astro.props;
-const { name, tagline, description, image } = product;
+const name = product.name;
+const tagline = product.tagline;
+const description = product.description;
+const imageSrc = product.image;
+const loadingVal = index < 3 ? 'eager' : 'lazy';
 ---
 
 <style>
@@ -82,7 +86,7 @@ const { name, tagline, description, image } = product;
 
 <div class="listing-item">
   <div class="listing-item-img">
-    <img src="{image}" alt="{name}" loading="{index < 3 ? 'eager' : 'lazy'}">
+    <img src={imageSrc} alt={name} loading={loadingVal}>
   </div>
   <div class="listing-item-text">
     <h5>{name}</h5>

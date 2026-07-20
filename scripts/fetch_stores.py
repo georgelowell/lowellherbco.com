@@ -32,10 +32,10 @@ def query_safe(url, headers, select, filters, limit=5000):
         print(f"  ERROR: {e}")
         return []
 
-cutoff = (datetime.date(2026, 7, 19) - datetime.timedelta(days=90)).isoformat()
+cutoff = (datetime.date(2026, 7, 20) - datetime.timedelta(days=90)).isoformat()
 all_customers = {}
 
-print("Querying main DB...")
+print("Querying main DB (sales_out)...")
 for state in ["CA", "NY", "CO", "NM"]:
     rows = query_safe(f"{MAIN_URL}/rest/v1/sales_out", hdr(MAIN_KEY), "customer_name,state",
         [f"is_lowell=eq.true", f"state=eq.{state}", f"delivery_date=gte.{cutoff}"])
@@ -48,11 +48,12 @@ for state in ["CA", "NY", "CO", "NM"]:
             if state not in all_customers[n]["states"]:
                 all_customers[n]["states"].append(state)
 
-print("Querying market DB...")
+# NJ: use brand_name=Lowell (is_lowell is null for NJ fact_sell_in_orders)
+print("Querying NJ from market DB (brand_name=Lowell)...")
 for mstate in ["NJ", "nj", "New Jersey"]:
     qstate = quote(mstate)
     rows = query_safe(f"{MARKET_URL}/rest/v1/fact_sell_in_orders", hdr(MARKET_KEY), "account_name",
-        [f"is_lowell=eq.true", f"delivery_state=eq.{qstate}", f"delivery_date=gte.{cutoff}"])
+        [f"brand_name=eq.Lowell", f"delivery_state=eq.{qstate}", f"delivery_date=gte.{cutoff}"])
     print(f"  {mstate}: {len(rows)} rows")
     for row in rows:
         n = row.get("account_name")
@@ -62,7 +63,18 @@ for mstate in ["NJ", "nj", "New Jersey"]:
             if mstate not in all_customers[n]["states"]:
                 all_customers[n]["states"].append(mstate)
 
-# IL: brand_name=Lowell filter (is_lowell column is null for IL data)
+# Also check NJ in main DB sales_out
+nj_main = query_safe(f"{MAIN_URL}/rest/v1/sales_out", hdr(MAIN_KEY), "customer_name",
+    [f"state=eq.NJ", f"delivery_date=gte.{cutoff}"])
+for row in nj_main:
+    n = row.get("customer_name")
+    if n:
+        if n not in all_customers:
+            all_customers[n] = {"states": []}
+        if "NJ" not in all_customers[n]["states"]:
+            all_customers[n]["states"].append("NJ")
+
+# IL: use brand_name=Lowell (is_lowell is null for IL too)
 print("Querying IL from market DB...")
 rows = query_safe(f"{MARKET_URL}/rest/v1/fact_sell_in_orders", hdr(MARKET_KEY), "account_name",
     [f"delivery_state=eq.IL", f"delivery_date=gte.{cutoff}", f"brand_name=eq.Lowell"])
@@ -106,12 +118,11 @@ for name in sorted(all_customers.keys()):
 
 project_dir = os.path.expanduser("~/workspace/lowell-migration")
 output_path = os.path.join(project_dir, "src/data/stores.json")
-output = json.dumps({"stores": stores, "updated": "2026-07-19", "count": len(stores)}, indent=2)
+output = json.dumps({"stores": stores, "updated": "2026-07-20", "count": len(stores)}, indent=2)
 with open(output_path, "w") as f:
     f.write(output)
 print(f"\nSaved {len(stores)} stores to {output_path}")
 
-# Count by coverage
 covered = sum(1 for s in stores if s["address"])
 uncovered = sum(1 for s in stores if not s["address"])
 print(f"With address: {covered}, Without: {uncovered}")

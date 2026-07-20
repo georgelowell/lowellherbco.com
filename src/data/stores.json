@@ -51,6 +51,56 @@
       "google_place_id": "ChIJnasKTUUlw4kRDwntRZM46Fw"
     },
     {
+      "name": "A-Z Supply (Bloomfield)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "A21 Wellness (Scotch Plains)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "AYR Wellness NJ (Eatontown)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "AYR Wellness NJ (Union)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "AYR Wellness NJ (Woodbridge)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Air City Cannabis",
       "states": [
         "NY"
@@ -79,6 +129,16 @@
       "phone": "(716) 983-0204",
       "website": "https://www.ampedbud.com/",
       "google_place_id": "ChIJUdacPLV104kRos9dLMUox7k"
+    },
+    {
+      "name": "Ascend",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "Ascend IL (Adams Street)",
@@ -181,6 +241,36 @@
       "google_place_id": null
     },
     {
+      "name": "Ascend New Jersey (Fort Lee)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Ascend New Jersey (Rochelle Park)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Ascend New Jersey (Wharton)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Atomic Budz",
       "states": [
         "CA"
@@ -204,6 +294,56 @@
       "name": "Atwater Retail Partners DBA StashDash",
       "states": [
         "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Aunt Marys Dispensary (Flemington)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Aurum Botanics (Pemberton)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Authorized Dealer Dispensary (Jersey City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "BCaf Dispensary (Scotch Plains)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "BLKBRN (Highland Park)",
+      "states": [
+        "NJ"
       ],
       "address": null,
       "phone": null,
@@ -301,6 +441,26 @@
       "google_place_id": null
     },
     {
+      "name": "Blackwood Wellness (Blackwood)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Blaze Green (Paterson)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Bliss & Lex",
       "states": [
         "NY"
@@ -311,7 +471,47 @@
       "google_place_id": null
     },
     {
+      "name": "Bloc",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Bloc (Waretown)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Bloc NJ (Ewing)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Bloc NJ (Somerset)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Bloc NJ (Waretown)",
       "states": [
         "NJ"
       ],
@@ -371,6 +571,66 @@
       "google_place_id": null
     },
     {
+      "name": "BluLight Cannabis (Gloucester City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "BluLight Cannabis (Woodbury Heights)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Blue Oak (Bloomfield)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Boone Town Provisions (Boonton)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Botera NJ (Harrison)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Botera NJ (Union)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Bridge City Collective (East Dubuque)",
       "states": [
         "IL"
@@ -391,6 +651,16 @@
       "google_place_id": null
     },
     {
+      "name": "Brotherly Bud (Mt Ephraim)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Brownies - Saratoga",
       "states": [
         "NY"
@@ -399,6 +669,16 @@
       "phone": "(518) 507-6150",
       "website": "https://www.browniesdispensarysaratoga.com/",
       "google_place_id": "ChIJcWMrragv3okRCkJdpfApE2M"
+    },
+    {
+      "name": "Bud 2 Bloom (Netcong)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "Budd Barn - Herkimer",
@@ -461,12 +741,32 @@
       "google_place_id": null
     },
     {
+      "name": "Camden Apothecary Inc. (Camden)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Cana Beverly",
       "states": [
         "CA"
       ],
       "address": "8430 Beverly Blvd, Los Angeles, CA 90048",
       "phone": "(310) 431-9415",
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Canna Bar LLC (Matawan)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
       "website": null,
       "google_place_id": null
     },
@@ -631,6 +931,16 @@
       "google_place_id": "ChIJ85VDuWJZwokReFUy0Bdq0sk"
     },
     {
+      "name": "Casa Verde Wellness (Dover)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Castaway Cannabis",
       "states": [
         "NJ"
@@ -638,6 +948,16 @@
       "address": "6006 US-130, Delran, NJ 08075",
       "phone": "(856) 544-3029",
       "website": "https://www.castawaycanna.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Castaway Cannabis (Castaway Delran)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -668,6 +988,46 @@
       "address": "483 3rd Ave, Brooklyn, NY 11215",
       "phone": "(718) 576-3423",
       "website": "https://chronicbrooklyn.com",
+      "google_place_id": null
+    },
+    {
+      "name": "City Leaf (Newark)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "City Leaf Dispensary",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "City Leaves LLC (Egg Harbor Township)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Clone Cannabis LLC (Jersey City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -781,6 +1141,16 @@
       "google_place_id": "ChIJdaqyrctZwokREz5ONq6R12k"
     },
     {
+      "name": "Conservatory Cannabis (Egg Harbor Township)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Consume IL (Antioch)",
       "states": [
         "IL"
@@ -861,6 +1231,16 @@
       "google_place_id": null
     },
     {
+      "name": "Cottonmouth Dispensary (Runnee)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "County Road Cannabis",
       "states": [
         "NY"
@@ -869,6 +1249,16 @@
       "phone": "(845) 991-4545",
       "website": "https://countyrdcannabis.com/",
       "google_place_id": "ChIJpzT4htYxw4kRKN8gbhw-3RA"
+    },
+    {
+      "name": "Cream Retail Dispensary (Jersey City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "Culture House",
@@ -971,6 +1361,26 @@
       "google_place_id": null
     },
     {
+      "name": "Curaleaf NJ (Bellmawr)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Curaleaf NJ (Edgewater Park)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Cussins Cannabis",
       "states": [
         "NY"
@@ -1022,6 +1432,26 @@
       "google_place_id": null
     },
     {
+      "name": "Dank Poet Dispensary (Washington)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Daylite Cannabis (Mt Lrel)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Diamond Tree Dispensary",
       "states": [
         "NY"
@@ -1060,6 +1490,16 @@
       "phone": "(845) 768-3805",
       "website": "https://www.domesdispensary.com/?utm_source=GBP&utm_medium=organic&utm_campaign=Kingston_GBP",
       "google_place_id": "ChIJm87KTK0F3YkR8wanj-FeEhk"
+    },
+    {
+      "name": "Doobiez (West Milford - Retail)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "Dutchess IL (Batavia)",
@@ -1282,6 +1722,26 @@
       "google_place_id": null
     },
     {
+      "name": "East Coasting (Eatontown)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Eastern Green Dispensary (Voorhees)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Easy Jay's Cannabis",
       "states": [
         "NY"
@@ -1412,6 +1872,26 @@
       "google_place_id": null
     },
     {
+      "name": "Emerald Tea Supply Company (Bloomfield)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Enlighten Dispensary (Marlton)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Erudito",
       "states": [
         "NY"
@@ -1432,6 +1912,16 @@
       "google_place_id": null
     },
     {
+      "name": "Everest Dispensary (Atlantic City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Evergreen Nature's Remedy",
       "states": [
         "NJ"
@@ -1439,6 +1929,16 @@
       "address": "1242 NJ-23, Butler, NJ 07405",
       "phone": "(973) 291-2500",
       "website": "https://evergreen23.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Evergreen Natures Remedy LLC (Butler)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -1502,6 +2002,16 @@
       "google_place_id": "ChIJH5NIbk4w0YkR7Z9M_IT9Axs"
     },
     {
+      "name": "Fire & Oak (Mount Holly)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Fishkill Cannabis",
       "states": [
         "NY"
@@ -1530,6 +2040,16 @@
       "phone": "(646) 410-0121",
       "website": "https://fireescape.nyc/",
       "google_place_id": "ChIJtT6ZWJ1ZwokRGGcfumKpa9Y"
+    },
+    {
+      "name": "Frosted Nug",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "Frosted Nug (Carneys Point)",
@@ -1562,6 +2082,36 @@
       "google_place_id": "ChIJPx2SQUfz3okRe3B27xD2w5Q"
     },
     {
+      "name": "Garden Greenz (Jersey City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Garden State Natural Green (Kingston)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Garfield Gardens Dispensary LLC (Garfield)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Gaslight Dispensary",
       "states": [
         "NY"
@@ -1579,6 +2129,16 @@
       "address": "814 White Horse Pike, Suite C, Oaklyn, NJ 08107",
       "phone": "(856) 856-4253",
       "website": "https://www.gingerhaledispensary.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Ginger Hale (Oaklyn)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -1792,6 +2352,26 @@
       "google_place_id": null
     },
     {
+      "name": "GreenStop (Jersey City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Greenlight Apothecary (Lake Hopatcong)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Grounded",
       "states": [
         "NY"
@@ -1819,6 +2399,26 @@
       "address": "14 S Centre St, Merchantville, NJ 08109",
       "phone": "(908) 275-0385",
       "website": "https://www.gynsyng.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Gynsyng (Merchantville)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Hackettstown Dispensary (Hackettstown)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -1882,6 +2482,16 @@
       "google_place_id": null
     },
     {
+      "name": "Hashery (Hackensack)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Hatch (Addison)",
       "states": [
         "IL"
@@ -1912,9 +2522,30 @@
       "google_place_id": "ChIJRRV8jI3T0IkR4eMNQMaQ7Bs"
     },
     {
+      "name": "Hazy Harvest LLC (Jersey City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Hello High",
       "states": [
-        "New Jersey"
+        "New Jersey",
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Hello High (Hammonton)",
+      "states": [
+        "NJ"
       ],
       "address": null,
       "phone": null,
@@ -2012,6 +2643,26 @@
       "google_place_id": null
     },
     {
+      "name": "High Profile NJ (Lakehurst)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "High Profile NJ (Somerdale)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "High Rollers",
       "states": [
         "NY"
@@ -2019,6 +2670,26 @@
       "address": "909 State Rte 9, Ste 3, Queensbury, NY 12804",
       "phone": "(518) 853-7070",
       "website": "https://nyhighrollers.com",
+      "google_place_id": null
+    },
+    {
+      "name": "High Rollers Dispensary",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "High Rollers Dispensary (Atlantic City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -2039,6 +2710,16 @@
       "address": "1938 Clove Rd, Staten Island, NY 10304",
       "phone": "(929) 598-5130",
       "website": "https://highstone.nyc",
+      "google_place_id": null
+    },
+    {
+      "name": "High Street (Hackettstown)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -2072,6 +2753,16 @@
       "google_place_id": "ChIJCaa5dzONwokRXGV4tlEfXW8"
     },
     {
+      "name": "Highway 90 New Jersey (Evesham)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Hold Up Roll Up",
       "states": [
         "NY"
@@ -2100,6 +2791,26 @@
       "phone": "(718) 799-0081",
       "website": "https://houseofstrains.com/store/?utm_source=google&utm_medium=gbp&utm_campaign=local",
       "google_place_id": "ChIJZyr1-vKLwokRUMny7B1SKqU"
+    },
+    {
+      "name": "Hudsonica (Hoboken)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Insa NJ (Coastline)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "Ivy Hall (Bolingbrook)",
@@ -2202,6 +2913,16 @@
       "google_place_id": null
     },
     {
+      "name": "J & J Cannabis Dispensary (Oak Ridge)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "JS Reserve DBA Nela Rd (Vermont Ave)",
       "states": [
         "CA"
@@ -2232,7 +2953,37 @@
       "google_place_id": null
     },
     {
+      "name": "Jersey Meds (Pennington)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Jersey Roots",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Jersey Roots Dispensary (West Milford)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Jesters Joint (New Brunswick)",
       "states": [
         "NJ"
       ],
@@ -2260,6 +3011,16 @@
       "phone": "(631) 730-6355",
       "website": "http://jointventureli.com/",
       "google_place_id": "ChIJ7fococtF6IkR1YPVcKG1ctY"
+    },
+    {
+      "name": "Joy Leaf (Roselle)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "Karma Club Chicago (Chicago)",
@@ -2292,6 +3053,16 @@
       "google_place_id": "ChIJNciFS_hbwokRf3fPrv8RBkY"
     },
     {
+      "name": "Kind Kush (Rockaway)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Kings House of Fire",
       "states": [
         "NY"
@@ -2315,6 +3086,16 @@
       "name": "La Brea Connection DBA Benzeen Co.",
       "states": [
         "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Leaf Haus LLC (Somerset)",
+      "states": [
+        "NJ"
       ],
       "address": null,
       "phone": null,
@@ -2722,7 +3503,37 @@
       "google_place_id": "ChIJZxhql1yt1okRKtLcjmH7PXQ"
     },
     {
+      "name": "MMD New Jersey (Jersey City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "MPX",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "MPX (Pennsauken)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "MPX NJ",
       "states": [
         "NJ"
       ],
@@ -2742,12 +3553,52 @@
       "google_place_id": null
     },
     {
+      "name": "MPX New Jersey (Atlantic City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "MPX New Jersey (Gloucester)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "MPX New Jersey (Pennsken)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Madame Jane Cannabis",
       "states": [
         "NY"
       ],
       "address": "102 State St, Schenectady, NY 12305",
       "phone": "(518) 860-2077",
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Main Street Dispensary (Highland Park)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
       "website": null,
       "google_place_id": null
     },
@@ -2822,6 +3673,16 @@
       "google_place_id": null
     },
     {
+      "name": "Midnight Greens (Blackwood)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Mighty Lucky",
       "states": [
         "NY"
@@ -2829,6 +3690,26 @@
       "address": "259 Bowery, New York, NY 10002",
       "phone": "(646) 901-6399",
       "website": "https://mighty-lucky.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Milligrams LLC (Mount Lrel)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "MindLift Dispensary (Plainfield)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -2850,6 +3731,36 @@
       "phone": "(718) 417-1707",
       "website": "http://www.mishasflowershop.com/",
       "google_place_id": "ChIJE7RcWTJdwokRONo0aDOldmU"
+    },
+    {
+      "name": "Mister Jones (Little Falls)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Molly Ann Farms (Haledon)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Monteverde (Red Bank)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "Mrs. Green's CANNAry",
@@ -2902,6 +3813,56 @@
       "google_place_id": null
     },
     {
+      "name": "NJ Leaf (Aberdeeen)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "NJ Leaf (Freehold)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "NJ Leaf (Keansburg)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "NJ Leaf (NJ Leaf Aberdeeen)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "NJ Leaf (Nj Leaf North Brunswick)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "NY Cannabis Co. - 5th Ave",
       "states": [
         "NY"
@@ -2942,6 +3903,16 @@
       "google_place_id": "ChIJv17TQ0xZwokRY7MGoERoNzU"
     },
     {
+      "name": "New Era Dispensary LLC (Bound Brook)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "New Mexico (all stores)",
       "states": [
         "NM"
@@ -2969,6 +3940,46 @@
       "address": "797 8th Ave, New York, NY 10019",
       "phone": "(646) 386-7972",
       "website": "https://nicklzny.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Nightjar (Bloomfield)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Nile Cannabis (West New York)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Nirvana Dispensary (Mt Lrel)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Northeast Alternatives NJ (Hamilton)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -3062,6 +4073,16 @@
       "google_place_id": null
     },
     {
+      "name": "Ohm Theory (Elmwood Park)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "One Green Leaf",
       "states": [
         "NJ"
@@ -3069,6 +4090,26 @@
       "address": "95 N Lakeview Dr, Gibbsboro, NJ 08026",
       "phone": "(856) 344-2879",
       "website": "https://onegreenleafdispensary.com",
+      "google_place_id": null
+    },
+    {
+      "name": "One Green Leaf NJ (Gibbsboro)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Oopachi LLC (Bloomfield)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -3082,6 +4123,26 @@
       "google_place_id": "ChIJF-KnM_hhLYgRPABnKND8Bqw"
     },
     {
+      "name": "Organic Farms Inc. (Camden)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Phasal Dispensary (Runnee)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Planet Nugg",
       "states": [
         "NY"
@@ -3090,6 +4151,16 @@
       "phone": "(631) 460-3441",
       "website": "https://planetnugg.com/shop/?utm_source=gmb&utm_campaign=nearfront",
       "google_place_id": "ChIJOa2yLgAr6IkRoU0uK98NFC4"
+    },
+    {
+      "name": "Plantabis Dispensary (Rahway)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "Pounds, Inc (Next Level Distro)",
@@ -3132,6 +4203,26 @@
       "google_place_id": null
     },
     {
+      "name": "Pure Blossom (Pennington)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Pure Natural Vibes (West Orange)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Purple Owl Dispensary",
       "states": [
         "NY"
@@ -3152,6 +4243,16 @@
       "google_place_id": "ChIJxQVGGIBbwokRKYzbXRb5J1s"
     },
     {
+      "name": "Quality Roots NJ (Evesham)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Qube",
       "states": [
         "NY"
@@ -3160,6 +4261,26 @@
       "phone": "(212) 871-0169",
       "website": "https://www.qubenyc.com/?utm_source=google&utm_medium=organic&utm_campaign=nearfront",
       "google_place_id": "ChIJB_EG_x1ZwokRqJdhNFLU7Zk"
+    },
+    {
+      "name": "Queen City Remedies (Plainfield)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "ROOTS Dispensary (Willingboro)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "RR Legacy Dispensary",
@@ -3173,6 +4294,36 @@
     },
     {
       "name": "ReLeaf Canna",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "ReLeaf Cannabis (Williamstown)",
+      "states": [
+        "NJ"
+      ],
+      "address": "1024 S Black Horse Pike, Unit A, Williamstown, NJ 08094",
+      "phone": "(856) 516-8187",
+      "website": "https://releafcanna.shop",
+      "google_place_id": null
+    },
+    {
+      "name": "Red Oak Dispensary Absecon (Absecon)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Releaf Newton (Newton)",
       "states": [
         "NJ"
       ],
@@ -3282,6 +4433,36 @@
       "google_place_id": null
     },
     {
+      "name": "Rise New Jersey (Bloomfield)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Rise New Jersey (Paramus)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Rise New Jersey (Paterson)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "River Bluff Cannabis Inc (Roselle)",
       "states": [
         "IL"
@@ -3312,6 +4493,16 @@
       "google_place_id": "ChIJLULK-93nwokRkEiBt8V45FY"
     },
     {
+      "name": "Root 22 Dispensary LLC (Somerville)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Root 9",
       "states": [
         "NY"
@@ -3330,6 +4521,16 @@
       "phone": "(518) 380-3738",
       "website": "https://royaleflower.com/",
       "google_place_id": "ChIJVeM0BhEL3okRCqvWD5u3Fus"
+    },
+    {
+      "name": "Ruuted (Englishtown)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "SB - Arapahoe",
@@ -3532,6 +4733,16 @@
       "google_place_id": null
     },
     {
+      "name": "Sea and Leaf (Cape May)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "SeshNYC",
       "states": [
         "NY"
@@ -3582,6 +4793,16 @@
       "google_place_id": null
     },
     {
+      "name": "Shipwreckd (Neptune City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Siesta Life Encinitas",
       "states": [
         "CA"
@@ -3599,6 +4820,16 @@
       "address": "1743 NJ-27, Suite 2, Somerset, NJ 08873",
       "phone": "(732) 655-9842",
       "website": "https://silverleafnj.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Silverleaf Wellness LLC (Somerset)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -3670,6 +4901,16 @@
       "phone": "(646) 988-0987",
       "website": "https://sofaclub.nyc/",
       "google_place_id": "ChIJ_ZeTt1lZwokRg9ZgpbTzxBw"
+    },
+    {
+      "name": "Soulflora (Newfoundland)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "Soulmate",
@@ -3952,6 +5193,36 @@
       "google_place_id": "ChIJZSzQWWpZwokRZX7IVdbjwMw"
     },
     {
+      "name": "Sweetspot Dispensary NJ (Mount Olive)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Sweetspot Dispensary NJ (River Edge)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Sweetspot Dispensary NJ (Vorhees)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "THTree",
       "states": [
         "NY"
@@ -4032,6 +5303,76 @@
       "google_place_id": null
     },
     {
+      "name": "The Apothecarium New Jersey (Lodi)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Apothecarium New Jersey (Maplewood)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Apothecarium New Jersey (Phillipsburg)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Botanist NJ (Collingswood)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Botanist NJ (Egg Harbor Township)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Botanist NJ (Williamstown)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Cannabis Place - NJ (Jersey City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "The Cannabis Reserve",
       "states": [
         "NY"
@@ -4069,6 +5410,16 @@
       "address": "1801 16th Ave, Fulton, IL 61252",
       "phone": "(815) 208-7701",
       "website": "https://www.thedispensaryfulton.com",
+      "google_place_id": null
+    },
+    {
+      "name": "The Dispensary of Saddlebrook (Saddle Brook)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -4112,6 +5463,16 @@
       "google_place_id": null
     },
     {
+      "name": "The Grass Cab (Maywood)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "The Herb Cave",
       "states": [
         "NY"
@@ -4142,6 +5503,16 @@
       "google_place_id": "ChIJk294_IIT04kRqlxW31BmH1w"
     },
     {
+      "name": "The Leaf and Seed Company",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "The Ounce",
       "states": [
         "CA"
@@ -4160,6 +5531,16 @@
       "phone": "(347) 254-6938",
       "website": "https://theplugny.com/",
       "google_place_id": "ChIJq8FaiJpbwokRs_qVlURx_Jk"
+    },
+    {
+      "name": "The Public Garden (Bloomfield)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "The Relief Collective DBA The Growcery",
@@ -4203,6 +5584,16 @@
       "google_place_id": null
     },
     {
+      "name": "The Social Leaf (Toms River)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "The Spot",
       "states": [
         "NY"
@@ -4211,6 +5602,26 @@
       "phone": "(347) 457-5510",
       "website": "https://thespotdispensary.com/",
       "google_place_id": "ChIJJ5IyS6pbwokR2kqcsTn9Ddk"
+    },
+    {
+      "name": "The Station (Hoboken)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Station Dispensary (Newark)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "The Station Hoboken",
@@ -4250,6 +5661,16 @@
       "address": "41 New Hartford Shopping Center, New Hartford, NY 13413",
       "phone": "(315) 316-0823",
       "website": "https://villagegreendispensary.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Theory Wellness of NJ LLC (Trenton)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -4311,6 +5732,16 @@
       "phone": "(914) 207-1545",
       "website": "https://www.nytokes.com/",
       "google_place_id": "ChIJc2SLLNjzwokRt4Qr37QbMRQ"
+    },
+    {
+      "name": "Toke Lane (Trenton)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "Traditional LAX",
@@ -4403,6 +5834,16 @@
       "google_place_id": "ChIJI1Bnbwk70YkR0LgtXTRXB24"
     },
     {
+      "name": "Twisted Hat (Carneys Point)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "UMI (Chicago)",
       "states": [
         "IL"
@@ -4413,6 +5854,36 @@
       "google_place_id": null
     },
     {
+      "name": "URBN Dispensary LLC (Newark)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Uforia (Jersey City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Uma Flowers NJ (Morristown)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Union Cannabis Club",
       "states": [
         "CA"
@@ -4420,6 +5891,16 @@
       "address": "2030 Union St, San Francisco, CA 94123",
       "phone": "(415) 796-3610",
       "website": "http://www.unioncannabisclub.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Union Chill Cannabis Company LLC (Lambertville)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -4443,6 +5924,16 @@
       "google_place_id": "ChIJBWhrCHwL3YkRDFGM3K3DS7Y"
     },
     {
+      "name": "Urge New Jersey LLC (Elizabeth)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "Valley Collective Care, Inc. DBA Atrium",
       "states": [
         "CA"
@@ -4461,6 +5952,16 @@
       "phone": "(914) 293-0231",
       "website": "https://valleygreensny.com/",
       "google_place_id": "ChIJ5Q1c47nJwokRT98cVPkrKQA"
+    },
+    {
+      "name": "Valley Wellness NJ (Raritan)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
     },
     {
       "name": "Velvet Napa, Inc.",
@@ -4594,6 +6095,16 @@
       "google_place_id": null
     },
     {
+      "name": "West Orange Wellness (West Orange)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "White Atmoss",
       "states": [
         "NY"
@@ -4684,6 +6195,16 @@
       "google_place_id": "ChIJL_9Dequt3YkR4wNDpkG5C18"
     },
     {
+      "name": "Woodbury Wellness (Woodbury)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
       "name": "World Piece",
       "states": [
         "NY"
@@ -4691,6 +6212,16 @@
       "address": "3162 Lake Rd, Ste 4, Horseheads, NY 14845",
       "phone": "(607) 215-0090",
       "website": "https://worldpieceshop.com",
+      "google_place_id": null
+    },
+    {
+      "name": "Xena (Jersey City)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
       "google_place_id": null
     },
     {
@@ -4704,6 +6235,6 @@
       "google_place_id": "ChIJCTuD2kNbwokRSqTRnQ6oY3Q"
     }
   ],
-  "updated": "2026-07-19",
-  "count": 470
+  "updated": "2026-07-20",
+  "count": 623
 }

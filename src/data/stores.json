@@ -1,0 +1,3289 @@
+{
+  "stores": [
+    {
+      "name": "202 Cannabis Co",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "314 La Brea, LLC - Wonderbrett",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "716 Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "82-J Buffalo",
+      "states": [
+        "NY"
+      ],
+      "address": "1673 Hertel Ave, Buffalo, NY 14216",
+      "phone": "(716) 262-0036",
+      "website": "https://eightytwo-j.com/?utm_source=google_business&utm_medium=organic&utm_campaign=GBP_buffalo",
+      "google_place_id": "ChIJAW7W1_pt04kRRDV6jqGLQPE"
+    },
+    {
+      "name": "A Classy Joint Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": "46 Ronald Reagan Blvd, Warwick, NY 10990",
+      "phone": "(845) 544-1263",
+      "website": "https://aclassyjointny.com/",
+      "google_place_id": "ChIJnasKTUUlw4kRDwntRZM46Fw"
+    },
+    {
+      "name": "Air City Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": "1707 Oriskany St W Ste 150, Utica, NY 13502",
+      "phone": "(315) 269-8013",
+      "website": "https://aircitycannabis.com/",
+      "google_place_id": "ChIJP8jVER1B2YkRouUxsNsL9f4"
+    },
+    {
+      "name": "Altocanna",
+      "states": [
+        "NY"
+      ],
+      "address": "110 Chambers St, New York, NY 10007",
+      "phone": "(212) 933-4737",
+      "website": "http://altocanna.nyc/",
+      "google_place_id": "ChIJJyB4BABbwokRNRY-_5cclMg"
+    },
+    {
+      "name": "Amped",
+      "states": [
+        "NY"
+      ],
+      "address": "8520 Transit Rd, Buffalo, NY 14221",
+      "phone": "(716) 983-0204",
+      "website": "https://www.ampedbud.com/",
+      "google_place_id": "ChIJUdacPLV104kRos9dLMUox7k"
+    },
+    {
+      "name": "Atomic Budz",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Atrium Valley Village",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Atwater Retail Partners DBA StashDash",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Bayside Cannabis Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "224-15 Union Tpke, Oakland Gardens, NY 11364",
+      "phone": "(347) 548-0304",
+      "website": "https://baysidecannabis.com/?utm_source=GMB&utm_medium=gmb&utm_campaign=gmb_local&utm_id=gmb_local",
+      "google_place_id": "ChIJG2VF735jwokRBTqD-K5q8I0"
+    },
+    {
+      "name": "Beleaf - Brooklyn",
+      "states": [
+        "NY"
+      ],
+      "address": "1077 Atlantic Ave, Brooklyn, NY 11238",
+      "phone": "(347) 745-2297",
+      "website": "https://beleafny.com/location/beleaf-brooklyn/",
+      "google_place_id": "ChIJVUBOeABbwokR8HcPH0KR_zI"
+    },
+    {
+      "name": "Bethel Buds",
+      "states": [
+        "NY"
+      ],
+      "address": "1577 NY-17B, White Lake, NY 12786",
+      "phone": "(845) 250-4145",
+      "website": "http://www.bethelbuds.online/",
+      "google_place_id": "ChIJB43I9wGv3IkRvgq0kWNFZc8"
+    },
+    {
+      "name": "Big Gas",
+      "states": [
+        "NY"
+      ],
+      "address": "98 N Chestnut St, New Paltz, NY 12561",
+      "phone": "(845) 445-9258",
+      "website": "https://biggasdispensary.com/",
+      "google_place_id": "ChIJAR8VC1YZ3YkRm0nAV-XF-kc"
+    },
+    {
+      "name": "Big Sur Cannabotanicals",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Bishop Boyz",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Black Market Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Bliss & Lex",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Bloc (Waretown)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Brotherly Bud",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Brownies - Saratoga",
+      "states": [
+        "NY"
+      ],
+      "address": "1164 NY-29, Schuylerville, NY 12871",
+      "phone": "(518) 507-6150",
+      "website": "https://www.browniesdispensarysaratoga.com/",
+      "google_place_id": "ChIJcWMrragv3okRCkJdpfApE2M"
+    },
+    {
+      "name": "Budd Barn - Herkimer",
+      "states": [
+        "NY"
+      ],
+      "address": "316 E State Street EFK Plaza, Herkimer, NY 13350",
+      "phone": "(315) 619-9333",
+      "website": "https://cannaplanet.com/",
+      "google_place_id": "ChIJb39aqrNL2YkRxdwfbEx8cOY"
+    },
+    {
+      "name": "Budd's Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "958 6th Ave, New York, NY 10001",
+      "phone": "(212) 704-8080",
+      "website": "https://culturehousenyc.com/dispensary-midtown-nyc/?utm_source=gmb&utm_medium=organic",
+      "google_place_id": "ChIJHxop7EdZwokR3ibBCwcMRC8"
+    },
+    {
+      "name": "Buffalo Dreams",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "BuzzWNY",
+      "states": [
+        "NY"
+      ],
+      "address": "34 Scott St, Jamestown, NY 14701",
+      "phone": "(716) 710-7202",
+      "website": "https://buzzwny.com/",
+      "google_place_id": "ChIJL-pBgsCp0okRWLY9lw46TWY"
+    },
+    {
+      "name": "By Any Other Name",
+      "states": [
+        "NY"
+      ],
+      "address": "946 Fulton St, Brooklyn, NY 11238",
+      "phone": "(718) 310-6024",
+      "website": "https://byanyothernamebk.com/",
+      "google_place_id": "ChIJVarFbpdbwokRrnTeKZuC1Y4"
+    },
+    {
+      "name": "CHAD Enterprises LLC",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Cana Beverly",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Canna Health and Wellness",
+      "states": [
+        "NY"
+      ],
+      "address": "102-15 159th Rd, Howard Beach, NY 11414",
+      "phone": "(718) 738-2823",
+      "website": "http://cannafamilynyc.com/",
+      "google_place_id": "ChIJsdY7pH5nwokR7ZwFL624Gxk"
+    },
+    {
+      "name": "Canna Planet - Catskill",
+      "states": [
+        "NY"
+      ],
+      "address": "170 W Bridge St, Catskill, NY 12414",
+      "phone": "(518) 971-9333",
+      "website": "http://cannaplanet.com/",
+      "google_place_id": "ChIJdcTEcAC93YkRc-WdVtEKHek"
+    },
+    {
+      "name": "Canna Planet - Kingston",
+      "states": [
+        "NY"
+      ],
+      "address": "1223 Ulster Ave, Kingston, NY 12401",
+      "phone": "(845) 585-9333",
+      "website": "https://cannaplanet.com/",
+      "google_place_id": "ChIJD81bAWUP3YkRyHiK0idoeYg"
+    },
+    {
+      "name": "Canna Planet - Liberty",
+      "states": [
+        "NY"
+      ],
+      "address": "187 Mill St Ste 6, Liberty, NY 12754",
+      "phone": "(845) 539-9333",
+      "website": "https://cannaplanet.com/",
+      "google_place_id": "ChIJSdL2vPu93IkR8Cg52QFDje8"
+    },
+    {
+      "name": "Canna Planet - Monticello",
+      "states": [
+        "NY"
+      ],
+      "address": "73 Pleasant St, Monticello, NY 12701",
+      "phone": "(845) 720-9333",
+      "website": "http://shop.cannaplanet.com/",
+      "google_place_id": "ChIJDVaUq0i33IkRe50u_V7-SqM"
+    },
+    {
+      "name": "Canna Planet Liberty",
+      "states": [
+        "NY"
+      ],
+      "address": "245-02 Horace Harding Expy, Douglaston, NY 11362",
+      "phone": "(347) 235-0315",
+      "website": "https://libertybudsnyc.com/cannabis-dispensary-queens-nassau/",
+      "google_place_id": "ChIJ1fzE1ISJwokR83iHK5_BWRQ"
+    },
+    {
+      "name": "Canna Planet Middletown",
+      "states": [
+        "NY"
+      ],
+      "address": "400 N Galleria Dr, Scotchtown, NY 10941",
+      "phone": "(845) 869-9333",
+      "website": "https://shop.cannaplanet.com/",
+      "google_place_id": "ChIJj2VTXFUtw4kRxRIVE7qUa2Y"
+    },
+    {
+      "name": "Cannabis Depot - Murrock Circle",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Cannabis On Lex",
+      "states": [
+        "NY"
+      ],
+      "address": "459 Lexington Ave, New York, NY 10017",
+      "phone": "(646) 678-4633",
+      "website": "http://www.cannabisonlex.com/",
+      "google_place_id": "ChIJja4hYrJZwokRtlqBFbgjt3E"
+    },
+    {
+      "name": "Cannabis Realm of New York - Spring Valley",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Cannabis Realm of New York - White Plains",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Cannablue Tahoe",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Cannatopia Gardens (Cana Sylmar)",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Carnegie Hill Cannabis Co",
+      "states": [
+        "NY"
+      ],
+      "address": "1720 2nd Ave, New York, NY 10128",
+      "phone": "(212) 300-4769",
+      "website": "https://carnegiehillcannabis.com/",
+      "google_place_id": "ChIJ85VDuWJZwokReFUy0Bdq0sk"
+    },
+    {
+      "name": "Castaway Cannabis",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Catskill Mountain High",
+      "states": [
+        "NY"
+      ],
+      "address": "308 Plaza Rd, Kingston, NY 12401",
+      "phone": "(845) 802-0831",
+      "website": "https://www.catskillmtnhigh.com/",
+      "google_place_id": "ChIJ9UphyBgP3YkRz0b3nwcWnJ8"
+    },
+    {
+      "name": "Chelsea Cannabis Co",
+      "states": [
+        "NY"
+      ],
+      "address": "104 7th Ave, New York, NY 10011",
+      "phone": "(917) 409-8056",
+      "website": "https://chelseacannabis.co/?utm_source=gbp&utm_medium=organic&utm_campaign=chelsea",
+      "google_place_id": "ChIJ_5dQeslZwokRRIrJIloopRI"
+    },
+    {
+      "name": "Chronic Brooklyn",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Cloud 914",
+      "states": [
+        "NY"
+      ],
+      "address": "807 Washington St, Peekskill, NY 10566",
+      "phone": "(914) 400-0145",
+      "website": "https://www.cloud914.com/",
+      "google_place_id": "ChIJF-ISkz3JwokRoZ-8PsONofw"
+    },
+    {
+      "name": "Clouditude",
+      "states": [
+        "NY"
+      ],
+      "address": "4034 Hylan Blvd, Staten Island, NY 10308",
+      "phone": "(718) 766-1038",
+      "website": "https://clouditudedispensary.com/?utm_source=organic&utm_medium=gbp&utm_campaign=staten_island",
+      "google_place_id": "ChIJLcqhJphLwokRsdPfHEd1oV4"
+    },
+    {
+      "name": "Collegetown",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Colorado Core (all stores)",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Compassionate Patient Resources Inc",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Conbud LES",
+      "states": [
+        "NY"
+      ],
+      "address": "85 Delancey St, New York, NY 10002",
+      "phone": "(646) 449-0809",
+      "website": "https://conbud.com/",
+      "google_place_id": "ChIJdaqyrctZwokREz5ONq6R12k"
+    },
+    {
+      "name": "Cornerstone Research Collective",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Cotton Mouth Dispensary",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "County Road Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": "1326 County Rd 12, New Hampton, NY 10958",
+      "phone": "(845) 991-4545",
+      "website": "https://countyrdcannabis.com/",
+      "google_place_id": "ChIJpzT4htYxw4kRKN8gbhw-3RA"
+    },
+    {
+      "name": "Culture House",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Culture House - Greenpoint",
+      "states": [
+        "NY"
+      ],
+      "address": "807 Manhattan Ave, Brooklyn, NY 11222",
+      "phone": "(917) 580-3807",
+      "website": "https://www.culturehousenyc.com/",
+      "google_place_id": "ChIJR4SJ0VVZwokRQ9RQi2QVc3o"
+    },
+    {
+      "name": "Cussins Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Cuzzies Dispensary",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Dagmar Cannabis - SOHO",
+      "states": [
+        "NY"
+      ],
+      "address": "412 W Broadway, New York, NY 10012",
+      "phone": "(212) 933-4457",
+      "website": "https://dagmarcannabis.com/",
+      "google_place_id": "ChIJhT89jzxZwokRkyWbhhIqTMU"
+    },
+    {
+      "name": "Dagmar Cannabis - Williamsburg",
+      "states": [
+        "NY"
+      ],
+      "address": "61 N 11th St, Brooklyn, NY 11249",
+      "phone": "(917) 966-6011",
+      "website": "https://dagmarcannabis.com/",
+      "google_place_id": "ChIJO405ov5ZwokRHkwfalo3ufY"
+    },
+    {
+      "name": "Dank Poet Dispensary",
+      "states": [
+        "NJ",
+        "New Jersey"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Diamond Tree Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "2700 Erie Blvd E, Syracuse, NY 13224",
+      "phone": "(315) 652-9560",
+      "website": "https://diamondtreedispensary.com/",
+      "google_place_id": "ChIJI7st5ifz2YkRiEmParFr28k"
+    },
+    {
+      "name": "Domes Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "268 Forest Hill Dr, Kingston, NY 12401",
+      "phone": "(845) 768-3805",
+      "website": "https://www.domesdispensary.com/?utm_source=GBP&utm_medium=organic&utm_campaign=Kingston_GBP",
+      "google_place_id": "ChIJm87KTK0F3YkR8wanj-FeEhk"
+    },
+    {
+      "name": "Dutchess Roots",
+      "states": [
+        "NY"
+      ],
+      "address": "2615 South Rd, Poughkeepsie, NY 12601",
+      "phone": "(845) 266-6222",
+      "website": "https://www.dutchessroots.com/?utm_source=google_business&utm_medium=organic&utm_campaign=GBP_poughkeepsie",
+      "google_place_id": "ChIJSxyM07k_3YkRQgzARZmezGo"
+    },
+    {
+      "name": "EDW - 6th Ave (Aurora)",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "EDW - Aurora",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "EDW - Breckenridge",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "EDW - Brighton",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "EDW - Central Boulder",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "EDW - Commerce City",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "EDW - DU (Dispensary)",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "EDW - Federal Heights",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "EDW - Fort Collins - College Ave",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "EDW - Fort Collins - Smithfield",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "EDW - NW Denver/Pecos",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "EF - South Boulder",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "EVOLV AKA Herbal Solution SC",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Easy Jay's Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Eaze - Budget King, LLC",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Eaze - EZSD - Delivery",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Eaze - Fume Cotati",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Eaze - Hometown Heart East Bay",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Eaze - Orange County - Healthy Healing Holistic Options, Inc",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Eaze Lincoln - CS Group Operation 2, Inc.",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Eaze Silver Lake",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Eaze Van Nuys",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Eaze- Hometown Heart San Francisco",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Elevate Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": "127 S Terrace Ave Unit 2, Mt Vernon, NY 10550",
+      "phone": "(914) 966-1001",
+      "website": "https://www.elevatecannabisny.com/",
+      "google_place_id": "ChIJ5XzUVq3zwokRzwHBX7LxP0s"
+    },
+    {
+      "name": "Elevated - Brooklyn",
+      "states": [
+        "NY"
+      ],
+      "address": "304 Kings Hwy, Brooklyn, NY 11223",
+      "phone": "(718) 353-8283",
+      "website": "http://www.elevated718.com/",
+      "google_place_id": "ChIJQwmK4IxFwokR1yhDt07I0io"
+    },
+    {
+      "name": "Elevation HQ",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Erudito",
+      "states": [
+        "NY"
+      ],
+      "address": "120 Union St, Brooklyn, NY 11231",
+      "phone": "(844) 378-3486",
+      "website": "https://eruditostore.kinsta.cloud/store/",
+      "google_place_id": "ChIJG0OuzsBbwokR8B14l3GTnyI"
+    },
+    {
+      "name": "Eureka Sky",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Evergreen Nature's Remedy",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Evexia",
+      "states": [
+        "NY"
+      ],
+      "address": "217 Guideboard Rd, Clifton Park, NY 12065",
+      "phone": "(518) 357-3059",
+      "website": "https://www.evexiacannabis.com/",
+      "google_place_id": "ChIJgZdR0yQR3okRQCYf8nEFgT4"
+    },
+    {
+      "name": "FWC - Foothill Wellness Center",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Farmer's Choice - New Paltz",
+      "states": [
+        "NY"
+      ],
+      "address": "1 Old Rte 299, New Paltz, NY 12561",
+      "phone": "(845) 419-2420",
+      "website": "https://fcdispo.com/",
+      "google_place_id": "ChIJE2HxFwMj3YkRIJLmZ5xBeqY"
+    },
+    {
+      "name": "Farmers Choice - Fishkill",
+      "states": [
+        "NY"
+      ],
+      "address": "18 Westage Dr Ste 7, Fishkill, NY 12524",
+      "phone": "(845) 440-3647",
+      "website": "https://farmerschoicedispensary.com/?utm_source=google&utm_medium=organic&utm_campaign=nearfront",
+      "google_place_id": "ChIJDXHE3SQ33YkR29NfdHNweFw"
+    },
+    {
+      "name": "Finger Lakes Cannabis Co.",
+      "states": [
+        "NY"
+      ],
+      "address": "5 Railroad St, Victor, NY 14564",
+      "phone": "(585) 407-8000",
+      "website": "https://www.flxcannaco.com/",
+      "google_place_id": "ChIJH5NIbk4w0YkR7Z9M_IT9Axs"
+    },
+    {
+      "name": "Fishkill Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": "814 NY-52, Fishkill, NY 12524",
+      "phone": "(845) 440-6151",
+      "website": "http://fishkillcannabis.com/",
+      "google_place_id": "ChIJF_wRuVk33YkRPYYk09zhrYs"
+    },
+    {
+      "name": "Flynnstoned - Oswego",
+      "states": [
+        "NY"
+      ],
+      "address": "143 George St, Oswego, NY 13126",
+      "phone": "(315) 207-2420",
+      "website": "https://flynnstoned.com/stores/flynnstoned-cannabis-dispensary-oswego-ny/?utm_source=gmb&utm_medium=organic",
+      "google_place_id": "ChIJH-sjPRB914kRm5_LYghcBLs"
+    },
+    {
+      "name": "Forage Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "103 Avenue A, New York, NY 10009",
+      "phone": "(646) 410-0121",
+      "website": "https://fireescape.nyc/",
+      "google_place_id": "ChIJtT6ZWJ1ZwokRGGcfumKpa9Y"
+    },
+    {
+      "name": "Frosted Nug (Carneys Point)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "GDinLA, Inc.",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Ganja Palace",
+      "states": [
+        "NY"
+      ],
+      "address": "343 N Comrie Ave, Johnstown, NY 12095",
+      "phone": "(518) 705-4282",
+      "website": "https://ganjapalacedispensary.com/",
+      "google_place_id": "ChIJPx2SQUfz3okRe3B27xD2w5Q"
+    },
+    {
+      "name": "Gaslight Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Ginger Hale",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Good Life Collective - Canandaigua",
+      "states": [
+        "NY"
+      ],
+      "address": "230 S Main St, Canandaigua, NY 14424",
+      "phone": "(585) 412-6174",
+      "website": "https://goodlifeweed.com/",
+      "google_place_id": "ChIJZ4LRkLAn0YkR5c36weHG6gs"
+    },
+    {
+      "name": "Good Life Collective FLX",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Grassy Grove LLC - Seaweed SF",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Green Angel AKA MMR Center Inc.",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Green Apple",
+      "states": [
+        "NY"
+      ],
+      "address": "572 Manhattan Ave, Brooklyn, NY 11222",
+      "phone": "(718) 586-5004",
+      "website": "https://greenapple.nyc/",
+      "google_place_id": "ChIJFbnZoSlZwokRxqR-Mxw1uow"
+    },
+    {
+      "name": "Green Dragon - Aspen",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Green Dragon - Capitol Hill (Grant)",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Green Dragon - Central Denver (Byers Place)",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Green Dragon - Colfax (East Denver)",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Green Dragon - Edgewater",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Green Dragon - Mile High",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Green Dragon - Sheridan (West Denver)",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Green Dragon - Telluride",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Green Earth Pharmacy Inc.",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Green Genius",
+      "states": [
+        "NY"
+      ],
+      "address": "214 3rd Ave, New York, NY 10003",
+      "phone": "(646) 410-0088",
+      "website": "https://greengeniusnyc.com/",
+      "google_place_id": "ChIJs_6kQgBZwokRbszaeEEWH8k"
+    },
+    {
+      "name": "Green Goddess",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Green Leaf Cannabis & Wellness",
+      "states": [
+        "NY"
+      ],
+      "address": "356 W 40th St, New York, NY 10018",
+      "phone": null,
+      "website": "https://greenleafnewyork.com/",
+      "google_place_id": "ChIJQ9rFKd5ZwokRnLBK4q3qqJI"
+    },
+    {
+      "name": "Green Leaf Wellness",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Green Philosophy 716",
+      "states": [
+        "NY"
+      ],
+      "address": "101 Slade Ave West Seneca, Buffalo, NY 14224",
+      "phone": "(716) 796-0040",
+      "website": "https://gp716.com/",
+      "google_place_id": "ChIJnc4y9-4P04kRuGlWEObYWaY"
+    },
+    {
+      "name": "Grounded",
+      "states": [
+        "NY"
+      ],
+      "address": "3665 Albany Post Rd, Poughkeepsie, NY 12601",
+      "phone": "(845) 240-1244",
+      "website": "https://hvgrounded.com/?utm_source=google&utm_medium=organic&utm_campaign=google-business-profile",
+      "google_place_id": "ChIJ1zE_DW0V3YkRRrb_eDlnHnM"
+    },
+    {
+      "name": "Gynsyng",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Hampton Premium Green",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Happy Days Dispensary Inc",
+      "states": [
+        "NY"
+      ],
+      "address": "105 NY-109, Farmingdale, NY 11735",
+      "phone": "(516) 888-1505",
+      "website": "https://www.happydaysli.com/?y_source=1_MTAyODg2NTkzMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "google_place_id": "ChIJkeXgpYQr6IkRt9WOj5rl_T8"
+    },
+    {
+      "name": "Happy Leaf Dispensary",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Happy Tree Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "99 NY-17K Suite 2, Newburgh, NY 12550",
+      "phone": "(845) 245-4490",
+      "website": "https://www.happytree.love/",
+      "google_place_id": "ChIJ7649tmMt3YkRga-Y1Q98C8k"
+    },
+    {
+      "name": "Harvest Corner, LLC",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Hashery",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Haze and Harvest",
+      "states": [
+        "NY"
+      ],
+      "address": "6740 NY-31, Newark, NY 14513",
+      "phone": "(315) 332-8189",
+      "website": "https://www.hazeandharvest.com/",
+      "google_place_id": "ChIJRRV8jI3T0IkR4eMNQMaQ7Bs"
+    },
+    {
+      "name": "Hello High",
+      "states": [
+        "New Jersey"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Herbal Relief Caregivers Inc.",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Herbal Woodstock",
+      "states": [
+        "NY"
+      ],
+      "address": "17 Tinker St, Woodstock, NY 12498",
+      "phone": null,
+      "website": "https://www.herbalwoodstock.com/",
+      "google_place_id": "ChIJJ_oW_KQH3YkRUUsenm5Vc7o"
+    },
+    {
+      "name": "Herbalwai",
+      "states": [
+        "NY"
+      ],
+      "address": "6970 Transit Rd Ste 100, Buffalo, NY 14221",
+      "phone": "(716) 242-1080",
+      "website": "http://www.herbalwai.com/",
+      "google_place_id": "ChIJuQduWAF104kR91s0hJRzSF4"
+    },
+    {
+      "name": "Herbarium Queens",
+      "states": [
+        "NY"
+      ],
+      "address": "4-65 Onderdonk Ave, Ridgewood, NY 11385",
+      "phone": "(347) 689-3779",
+      "website": "http://www.herbarium.co/",
+      "google_place_id": "ChIJJZGt5ZhfwokRvgYFWwDj5yU"
+    },
+    {
+      "name": "High City Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": "22-35 31st St, Astoria, NY 11105",
+      "phone": "(347) 448-6396",
+      "website": "http://highcityny.com/",
+      "google_place_id": "ChIJQXqzKltfwokRWIWZ6KoUEUY"
+    },
+    {
+      "name": "High Rollers",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "High Seas - Costa Mesa",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "High Stone",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "High Tidez Cannabis Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "1029 Surf Ave, Brooklyn, NY 11224",
+      "phone": "(718) 701-6634",
+      "website": "https://hightidezci.com/?utm_source=google&utm_medium=organic&utm_campaign=Coney_Island_GBP",
+      "google_place_id": "ChIJBfakMxRFwokRKvrWMSad-9Q"
+    },
+    {
+      "name": "Highest Standards",
+      "states": [
+        "NY"
+      ],
+      "address": "2 Coenties Slip, New York, NY 10004",
+      "phone": "(212) 271-2420",
+      "website": "https://higheststandards.com/",
+      "google_place_id": "ChIJC6fIq-tbwokRfAKT0cbwphM"
+    },
+    {
+      "name": "Highlife Health",
+      "states": [
+        "NY"
+      ],
+      "address": "17 Huguenot St, New Rochelle, NY 10801",
+      "phone": "(914) 500-0010",
+      "website": "http://www.highlifehealth.com/",
+      "google_place_id": "ChIJCaa5dzONwokRXGV4tlEfXW8"
+    },
+    {
+      "name": "Hold Up Roll Up",
+      "states": [
+        "NY"
+      ],
+      "address": "196 Washington Ave, Albany, NY 12210",
+      "phone": "(518) 521-8324",
+      "website": "https://www.holduprollup.com/",
+      "google_place_id": "ChIJcdl0MrUL3okRV0Qa1jniohg"
+    },
+    {
+      "name": "Hornbill Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": "224 1st Ave, New York, NY 10009",
+      "phone": "(718) 603-3606",
+      "website": "https://www.hornbillnyc.com/",
+      "google_place_id": "ChIJ_QqC4XBZwokRsTYhC8WDHG8"
+    },
+    {
+      "name": "House of Strains",
+      "states": [
+        "NY"
+      ],
+      "address": "161-05 29th Ave, Flushing, NY 11358",
+      "phone": "(718) 799-0081",
+      "website": "https://houseofstrains.com/store/?utm_source=google&utm_medium=gbp&utm_campaign=local",
+      "google_place_id": "ChIJZyr1-vKLwokRUMny7B1SKqU"
+    },
+    {
+      "name": "JS Reserve DBA Nela Rd (Vermont Ave)",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "JS Reserve DBA Nela Rd. (York Blvd)",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Jersey Joint",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Jersey Roots",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Joe's Buds Cannabis Company",
+      "states": [
+        "NY"
+      ],
+      "address": "4658 Onondaga Blvd, Syracuse, NY 13219",
+      "phone": "(315) 883-0033",
+      "website": "http://joesbudsny.com/",
+      "google_place_id": "ChIJCa00egDx2YkRhYG4JoXEf5s"
+    },
+    {
+      "name": "Joint Venture Cannabis Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "2 Munsell Rd, Medford, NY 11763",
+      "phone": "(631) 730-6355",
+      "website": "http://jointventureli.com/",
+      "google_place_id": "ChIJ7fococtF6IkR1YPVcKG1ctY"
+    },
+    {
+      "name": "Kaya Bliss - Bay Ridge",
+      "states": [
+        "NY"
+      ],
+      "address": "8412 3rd Ave, Brooklyn, NY 11209",
+      "phone": "(718) 500-7400",
+      "website": "https://kayablissnyc.com/location/brooklyn-ny/",
+      "google_place_id": "ChIJfyv2LItPwokRtjceHaBOeK0"
+    },
+    {
+      "name": "Kaya Bliss - Brooklyn Heights",
+      "states": [
+        "NY"
+      ],
+      "address": "64 Henry St, Brooklyn, NY 11201",
+      "phone": "(718) 500-8222",
+      "website": "https://kayablissnyc.com/location/brooklyn-heights/",
+      "google_place_id": "ChIJNciFS_hbwokRf3fPrv8RBkY"
+    },
+    {
+      "name": "Kings House of Fire",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "La Brea Connection DBA Benzeen Co.",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Leafology Cannabis Company",
+      "states": [
+        "NY"
+      ],
+      "address": "244 Main St Suite 1, White Plains, NY 10601",
+      "phone": "(914) 881-3160",
+      "website": "https://leafologycannabiscompany.com/",
+      "google_place_id": "ChIJD5s3EMWVwokRTQbOf-Y_C-k"
+    },
+    {
+      "name": "Legendary Organics Oxnard",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Legendary Organics Thousand Oaks, LLC",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Lemonnade Pacoima",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Lenox Hill Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": "334 E 73rd St, New York, NY 10021",
+      "phone": "(212) 915-2313",
+      "website": "https://lenoxhillcannabis.com/?utm_source=google&utm_medium=gbp&utm_campaign=local",
+      "google_place_id": "ChIJZXuFAgBZwokRNKPy68b4fPY"
+    },
+    {
+      "name": "Lenox Hill Cannabis Co.",
+      "states": [
+        "NY"
+      ],
+      "address": "334 E 73rd St, New York, NY 10021",
+      "phone": "(212) 915-2313",
+      "website": "https://lenoxhillcannabis.com/?utm_source=google&utm_medium=gbp&utm_campaign=local",
+      "google_place_id": "ChIJZXuFAgBZwokRNKPy68b4fPY"
+    },
+    {
+      "name": "Liberty Buds - [DBA: Weeds R Us Inc)",
+      "states": [
+        "NY"
+      ],
+      "address": "1115 1st Ave, New York, NY 10065",
+      "phone": "(646) 351-6975",
+      "website": "http://libertybudsnyc.com/",
+      "google_place_id": "ChIJTci03ZRZwokRnxhMxMC7KM8"
+    },
+    {
+      "name": "LivWell - Berthoud",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Broomfield",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Buckley",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Central Park",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Colorado Blvd",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Cortez",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Federal Heights",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Fort Collins",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Garden City",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Lakewood",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Log Lane",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Peoria",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Pueblo North",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Tower Road",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell - Uptown",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell \u00e2\u20ac\u201c DTC",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell \u00e2\u20ac\u201c Rino",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell \u2013 DTC",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "LivWell \u2013 Rino",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Long Island Cannabis Club",
+      "states": [
+        "NY"
+      ],
+      "address": "94 E Industry Ct, Deer Park, NY 11729",
+      "phone": "(631) 868-8488",
+      "website": "https://longislandcannabisclub.com/",
+      "google_place_id": "ChIJhyMwYyst6IkRRUxgGxIbAuA"
+    },
+    {
+      "name": "Loud Pack Exotics",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Lucky Dog 420",
+      "states": [
+        "NY"
+      ],
+      "address": "974 NY-67, Ballston Spa, NY 12020",
+      "phone": "(518) 288-3201",
+      "website": "https://luckydog420.com/",
+      "google_place_id": "ChIJw0-65FtB3okRAoQ8jO-GRH4"
+    },
+    {
+      "name": "Lucky Green Ladies",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Lucky Leaf",
+      "states": [
+        "NY"
+      ],
+      "address": "50 N Highland Ave, Ossining, NY 10562",
+      "phone": "(516) 960-7445",
+      "website": "https://www.luckyleafny.com/",
+      "google_place_id": "ChIJCZoHHwbBwokRWHXedbHqHAc"
+    },
+    {
+      "name": "Luxus Botanica",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Lytt, LLC",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "MJ Dispensary  - Honeoye Falls",
+      "states": [
+        "NY"
+      ],
+      "address": "201 W Main St, Honeoye Falls, NY 14472",
+      "phone": "(585) 497-7090",
+      "website": "https://mjdispensary585.com/",
+      "google_place_id": "ChIJ6Qmgz29H0YkRnY3ldyLDoDA"
+    },
+    {
+      "name": "MJ Dispensary - Geneseo",
+      "states": [
+        "NY"
+      ],
+      "address": "4245 Lakeville Rd, Geneseo, NY 14454",
+      "phone": "(585) 447-9091",
+      "website": "https://mjdispensary585.com/geneseo-menu/",
+      "google_place_id": "ChIJ7-zwGiJn0YkRlVVHLVnaFBc"
+    },
+    {
+      "name": "MJ Dispensary - Henrietta",
+      "states": [
+        "NY"
+      ],
+      "address": "900 Jefferson Rd Ste 902, Rochester, NY 14623",
+      "phone": "(585) 222-9333",
+      "website": "https://mjdispensary585.com/",
+      "google_place_id": "ChIJWY0IMYBL0YkRfV1fsYeWNKU"
+    },
+    {
+      "name": "MJ Dispensary - Rochester",
+      "states": [
+        "NY"
+      ],
+      "address": "900 Jefferson Rd Ste 902, Rochester, NY 14623",
+      "phone": "(585) 222-9333",
+      "website": "https://mjdispensary585.com/",
+      "google_place_id": "ChIJWY0IMYBL0YkRfV1fsYeWNKU"
+    },
+    {
+      "name": "MJ Dispensary - Spencerport",
+      "states": [
+        "NY"
+      ],
+      "address": "377 S Union St Ste 5, Spencerport, NY 14559",
+      "phone": "(585) 488-2069",
+      "website": "https://www.mjdispensary585.com/",
+      "google_place_id": "ChIJZxhql1yt1okRKtLcjmH7PXQ"
+    },
+    {
+      "name": "MPX (Pennsauken)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "MPX NJ (Gloucester Township)",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Madame Jane Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Mango Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": "3553 W Henrietta Rd, Rochester, NY 14623",
+      "phone": "(585) 404-0194",
+      "website": "https://mangocannabis.com/new-york/dispensary-rochester-ny/?utm_source=JP_gbp&utm_medium=organic&utm_campaign=rochester_dispensary",
+      "google_place_id": "ChIJfXB89h1L0YkRHx2HSdF0gb8"
+    },
+    {
+      "name": "Maryjane Cannabis Co",
+      "states": [
+        "NY"
+      ],
+      "address": "799 Lexington Ave, New York, NY 10065",
+      "phone": "(646) 370-6250",
+      "website": "https://maryjanecannabisco.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "google_place_id": "ChIJR6ZgaRNZwokRojYGFUnXDMY"
+    },
+    {
+      "name": "MedMen DTLA",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "MedMen LAX/Nature's Cure",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Medical Caregivers Cooperative",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Megan's Organic Market WEHO",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Midnight Greens",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Mighty Lucky",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Mindset Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": "51 Main St, Tarrytown, NY 10591",
+      "phone": "(914) 848-4090",
+      "website": "https://mindsettarrytown.com/",
+      "google_place_id": "ChIJYaF6gFrrwokRFtXHP8uQhV8"
+    },
+    {
+      "name": "Misha's Flower Shop",
+      "states": [
+        "NY"
+      ],
+      "address": "299 Knickerbocker Ave, Brooklyn, NY 11237",
+      "phone": "(718) 417-1707",
+      "website": "http://www.mishasflowershop.com/",
+      "google_place_id": "ChIJE7RcWTJdwokRONo0aDOldmU"
+    },
+    {
+      "name": "Mrs. Green's CANNAry",
+      "states": [
+        "NY"
+      ],
+      "address": "204 E Main St, Batavia, NY 14020",
+      "phone": "(585) 356-1647",
+      "website": "http://www.mrsgreenscannary.com/",
+      "google_place_id": "ChIJGU57EYjv04kRI6imXtmDCho"
+    },
+    {
+      "name": "Mystika",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "NICKBOB LLC - HERB - EASTSIDE",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "NY Cannabis Co. - 5th Ave",
+      "states": [
+        "NY"
+      ],
+      "address": "381 5th Ave, New York, NY 10016",
+      "phone": "(646) 657-0468",
+      "website": "https://www.nycannabisco.com/",
+      "google_place_id": "ChIJE6R1O7FZwokRFc0NKrx2EcM"
+    },
+    {
+      "name": "NY Cannabis Co. - 9th Ave",
+      "states": [
+        "NY"
+      ],
+      "address": "743 9th Ave, New York, NY 10019",
+      "phone": "(646) 360-4863",
+      "website": "https://nycannabisco.com/",
+      "google_place_id": "ChIJox-DvopZwokR7ETzd1uq8MU"
+    },
+    {
+      "name": "New Amsterdam",
+      "states": [
+        "NY"
+      ],
+      "address": "245 W 14th St, New York, NY 10011",
+      "phone": "(212) 510-8711",
+      "website": "https://newamsterdam.nyc/",
+      "google_place_id": "ChIJv17TQ0xZwokRY7MGoERoNzU"
+    },
+    {
+      "name": "New Mexico (all stores)",
+      "states": [
+        "NM"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "New Mexico (retail stores)",
+      "states": [
+        "NM"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Nicklz - Times Square",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Nucleus Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "1819 2nd Ave, New York, NY 10128",
+      "phone": "(646) 434-2240",
+      "website": "https://nucleusdispensary.com/",
+      "google_place_id": "ChIJIblMklxZwokRr_N28mEpRCA"
+    },
+    {
+      "name": "Oakanna",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "One Green Leaf",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Organic Blooms Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": "2971 NY-426, Findley Lake, NY 14736",
+      "phone": "(716) 769-2001",
+      "website": "http://organicbloomsny.com/",
+      "google_place_id": "ChIJF-KnM_hhLYgRPABnKND8Bqw"
+    },
+    {
+      "name": "Planet Nugg",
+      "states": [
+        "NY"
+      ],
+      "address": "2043 Wellwood Ave, Farmingdale, NY 11735",
+      "phone": "(631) 460-3441",
+      "website": "https://planetnugg.com/shop/?utm_source=gmb&utm_campaign=nearfront",
+      "google_place_id": "ChIJOa2yLgAr6IkRoU0uK98NFC4"
+    },
+    {
+      "name": "Pounds, Inc (Next Level Distro)",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Public Cannabis Absecon",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Puff Theory Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Purple Owl Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "405 Mamaroneck Ave, White Plains, NY 10605",
+      "phone": "(914) 297-2443",
+      "website": "https://thepurpleowldispensary.com/",
+      "google_place_id": "ChIJVdZBQTXXg4ERZNVNSuiSKkk"
+    },
+    {
+      "name": "Quality Roots",
+      "states": [
+        "NY"
+      ],
+      "address": "330 Tompkins Ave, Brooklyn, NY 11216",
+      "phone": null,
+      "website": "https://qualityroots.nyc/",
+      "google_place_id": "ChIJxQVGGIBbwokRKYzbXRb5J1s"
+    },
+    {
+      "name": "Qube",
+      "states": [
+        "NY"
+      ],
+      "address": "1412 Broadway, New York, NY 10018",
+      "phone": "(212) 871-0169",
+      "website": "https://www.qubenyc.com/?utm_source=google&utm_medium=organic&utm_campaign=nearfront",
+      "google_place_id": "ChIJB_EG_x1ZwokRqJdhNFLU7Zk"
+    },
+    {
+      "name": "RR Legacy Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "12 Hudson Ave, Glens Falls, NY 12801",
+      "phone": "(518) 338-3074",
+      "website": "https://store.legacy-dispensary.com/rr-pickup/?utm_source=gmb-glenn-falls&utm_campaign=dispenza",
+      "google_place_id": "ChIJjy4HQ1XR34kRbW-S30wzYFc"
+    },
+    {
+      "name": "ReLeaf Canna",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Rochester's Finest",
+      "states": [
+        "NY"
+      ],
+      "address": "74 Lake Ave, Rochester, NY 14608",
+      "phone": "(585) 286-9995",
+      "website": "https://rochestersfinestcannabis.com/",
+      "google_place_id": "ChIJheY3I_K11okRaSD299TH3ng"
+    },
+    {
+      "name": "Rockland Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "296 NY-59 #10, Airmont, NY 10901",
+      "phone": "(845) 290-1037",
+      "website": "https://rocklandcannabisdispensary.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "google_place_id": "ChIJLULK-93nwokRkEiBt8V45FY"
+    },
+    {
+      "name": "Root 9",
+      "states": [
+        "NY"
+      ],
+      "address": "1546 US-9, Wappingers Falls, NY 12590",
+      "phone": "(845) 297-9333",
+      "website": "https://root9dispensary.com/",
+      "google_place_id": "ChIJlaCU_mA53YkRCQZby6tOdPk"
+    },
+    {
+      "name": "Royale Flower",
+      "states": [
+        "NY"
+      ],
+      "address": "332 Northern Blvd, Albany, NY 12204",
+      "phone": "(518) 380-3738",
+      "website": "https://royaleflower.com/",
+      "google_place_id": "ChIJVeM0BhEL3okRCqvWD5u3Fus"
+    },
+    {
+      "name": "SB - Arapahoe",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Belmar",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Boulder",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Colorado Springs",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Fort Collins",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Garden City",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Glendale",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Highlands",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Lakeside",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Longmont",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Louisville",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Manitou Springs",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Niwot",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - North Denver",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Pueblo",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Pueblo West",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Quincy (Aurora)",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SB - Thornton",
+      "states": [
+        "CO"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "San Jose Wellness DBA Harborside",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Sea & Leaf",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SeshNYC",
+      "states": [
+        "NY"
+      ],
+      "address": "4219 Webster Ave, Bronx, NY 10470",
+      "phone": "(929) 607-3482",
+      "website": "https://myseshnyc.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "google_place_id": "ChIJzeBLwANgsqYRwaMh8db6I60"
+    },
+    {
+      "name": "SessCo",
+      "states": [
+        "NY"
+      ],
+      "address": "115 Main St, East Rochester, NY 14445",
+      "phone": "(585) 603-3516",
+      "website": "https://sesscocannabis.com/",
+      "google_place_id": "ChIJj3Sus3PL1okRqmImccEwnhA"
+    },
+    {
+      "name": "Shambala Healing Center, Inc.",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Shipwreck'd",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Siesta Life Encinitas",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "SilverLeaf Wellness",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Skones Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "743 Central Park Ave, Yonkers, NY 10704",
+      "phone": "(917) 540-2471",
+      "website": "https://skonesdispensary.com/?utm_source=GMB&utm_medium=Website%20Link&utm_campaign=GMB-Website",
+      "google_place_id": "ChIJXUkZrYfzwokRoC8YYyZMk-M"
+    },
+    {
+      "name": "Smacked Village",
+      "states": [
+        "NY"
+      ],
+      "address": "144 Bleecker St, New York, NY 10012",
+      "phone": "(646) 371-9536",
+      "website": "https://getsmacked.online/?utm_source=gmb&utm_medium=organic",
+      "google_place_id": "ChIJWSIe55FZwokRGAt4ejHscY0"
+    },
+    {
+      "name": "Sofaclub - East Village",
+      "states": [
+        "NY"
+      ],
+      "address": "229 Avenue B, New York, NY 10009",
+      "phone": "(646) 988-0987",
+      "website": "https://sofaclub.nyc/",
+      "google_place_id": "ChIJ_ZeTt1lZwokRg9ZgpbTzxBw"
+    },
+    {
+      "name": "Soulmate",
+      "states": [
+        "NY"
+      ],
+      "address": "237 Dekalb Ave, Brooklyn, NY 11205",
+      "phone": "(917) 970-1039",
+      "website": "https://soulmatebk.com/?utm_source=google_business&utm_medium=organic&utm_campaign=GBP_brooklyn",
+      "google_place_id": "ChIJ2R_TDI5bwokRY6MIgNE47kQ"
+    },
+    {
+      "name": "St. Andrews Green DBA Weedway",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Star Life Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "1 Hall Ave, White Plains, NY 10603",
+      "phone": "(914) 370-2942",
+      "website": "https://starlifedispensary.com/",
+      "google_place_id": "ChIJpUosVwCVwokR0f-dlXgrxTM"
+    },
+    {
+      "name": "StashMaster NYC",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Stashmaster",
+      "states": [
+        "NY"
+      ],
+      "address": "1119 Broadway, Brooklyn, NY 11221",
+      "phone": "(929) 549-0737",
+      "website": "https://stashmasternyc.com/",
+      "google_place_id": "ChIJsTArhRpdwokR4pmA9gqlHsk"
+    },
+    {
+      "name": "State of Mind - Latham",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "State of Mind Dispensary - Albany",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Strong Strains",
+      "states": [
+        "NY"
+      ],
+      "address": "19 Technology Dr, Setauket- East Setauket, NY 11733",
+      "phone": "(631) 635-7876",
+      "website": "https://strongstrains.com/",
+      "google_place_id": "ChIJowKSItJH6IkRUsJTmk_xP7U"
+    },
+    {
+      "name": "SunnyTien",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Superfly",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Sweet Life - The Hootch LLC",
+      "states": [
+        "NY"
+      ],
+      "address": "1662 1st Ave, New York, NY 10028",
+      "phone": "(646) 678-4357",
+      "website": "https://www.sweetlife.nyc/",
+      "google_place_id": "ChIJZSzQWWpZwokRZX7IVdbjwMw"
+    },
+    {
+      "name": "THTree",
+      "states": [
+        "NY"
+      ],
+      "address": "12193 US-9W, West Coxsackie, NY 12192",
+      "phone": "(518) 906-2772",
+      "website": "http://www.thtreeny.com/",
+      "google_place_id": "ChIJw912Cfvr3YkR7oG164v7PQU"
+    },
+    {
+      "name": "Taste of Earth",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Cannabis Reserve",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Circle - Long Beach",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Daily Green",
+      "states": [
+        "NY"
+      ],
+      "address": "719 7th Ave, New York, NY 10036",
+      "phone": "(917) 793-4606",
+      "website": "https://thedailygreennyc.com/?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=dailygreen",
+      "google_place_id": "ChIJiRUSRfJZwokRZXQ74XjGW5c"
+    },
+    {
+      "name": "The Emerald Dispensary - Bushwick",
+      "states": [
+        "NY"
+      ],
+      "address": "85 Suydam St, Brooklyn, NY 11221",
+      "phone": "(917) 688-3025",
+      "website": "https://theemeraldny.com/bushwick",
+      "google_place_id": "ChIJjYgM699dwokR6XaUif_f6u8"
+    },
+    {
+      "name": "The Emerald Dispensary - Carroll Gardens",
+      "states": [
+        "NY"
+      ],
+      "address": "548 Court St, Brooklyn, NY 11231",
+      "phone": "(347) 384-2762",
+      "website": "https://www.theemeraldny.com/carrollgardens",
+      "google_place_id": "ChIJrfJz4ktbwokRXFqhQlBb5BI"
+    },
+    {
+      "name": "The Emerald Dispensary - Manhattan",
+      "states": [
+        "NY"
+      ],
+      "address": "1190 Lexington Ave, New York, NY 10028",
+      "phone": "(646) 329-6120",
+      "website": "http://theemeraldny.com/uppereastside",
+      "google_place_id": "ChIJZb8j6ZJZwokRiSBCkfpcfqs"
+    },
+    {
+      "name": "The Flowery - Upper West Side",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Herb Cave",
+      "states": [
+        "NY"
+      ],
+      "address": "519 State Rte 3, Plattsburgh, NY 12901",
+      "phone": "(518) 310-0349",
+      "website": "http://www.theherbcave.com/",
+      "google_place_id": "ChIJCcghkUNHykwRu1n50gM8tvY"
+    },
+    {
+      "name": "The Herbal Care",
+      "states": [
+        "NY"
+      ],
+      "address": "1410 Lexington Ave, New York, NY 10128",
+      "phone": "(332) 209-0529",
+      "website": "http://www.thctheherbalcare.com/",
+      "google_place_id": "ChIJkVTibwBZwokRr1mOR0qjloM"
+    },
+    {
+      "name": "The Joint - Buffalo",
+      "states": [
+        "NY"
+      ],
+      "address": "904 Elmwood Ave, Buffalo, NY 14222",
+      "phone": "(716) 248-2285",
+      "website": "https://thejointcannabisdispensary.com/",
+      "google_place_id": "ChIJk294_IIT04kRqlxW31BmH1w"
+    },
+    {
+      "name": "The Ounce",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Plug",
+      "states": [
+        "NY"
+      ],
+      "address": "428 Rogers Ave, Brooklyn, NY 11225",
+      "phone": "(347) 254-6938",
+      "website": "https://theplugny.com/",
+      "google_place_id": "ChIJq8FaiJpbwokRs_qVlURx_Jk"
+    },
+    {
+      "name": "The Relief Collective DBA The Growcery",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Sanctuary Garden Powered by Indoor",
+      "states": [
+        "NY"
+      ],
+      "address": "2610 Broadway, New York, NY 10025",
+      "phone": "(332) 205-3963",
+      "website": "https://thesanctuarygarden.co/",
+      "google_place_id": "ChIJYUnbD2_3wokR_jY4TIomrJk"
+    },
+    {
+      "name": "The Set Hollywood",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Social Leaf",
+      "states": [
+        "NJ",
+        "New Jersey"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Spot",
+      "states": [
+        "NY"
+      ],
+      "address": "154 Vanderbilt Ave, Brooklyn, NY 11205",
+      "phone": "(347) 457-5510",
+      "website": "https://thespotdispensary.com/",
+      "google_place_id": "ChIJJ5IyS6pbwokR2kqcsTn9Ddk"
+    },
+    {
+      "name": "The Station Hoboken",
+      "states": [
+        "NJ"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Syndicate Lake Elsinore",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "The Vault",
+      "states": [
+        "NY"
+      ],
+      "address": "1151 Hylan Blvd, Staten Island, NY 10305",
+      "phone": "(718) 689-6330",
+      "website": "https://thevaultsi.com/?utm_source=google_business&utm_medium=organic&utm_campaign=gbp_staten_island",
+      "google_place_id": "ChIJLYfupsVPwokRACmG5k6pN50"
+    },
+    {
+      "name": "The Village Green Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Toasty CA (Costa Mesa)",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Toke Cannabis - Rockland",
+      "states": [
+        "NY"
+      ],
+      "address": "2 S Central Ave, Spring Valley, NY 10977",
+      "phone": "(845) 406-3004",
+      "website": "http://www.nytokes.com/",
+      "google_place_id": "ChIJKYg1pd_nwokRLb3pjS4f7Mk"
+    },
+    {
+      "name": "Toke Cannabis - Westchester",
+      "states": [
+        "NY"
+      ],
+      "address": "471 McLean Ave, Yonkers, NY 10705",
+      "phone": "(914) 207-1545",
+      "website": "https://www.nytokes.com/",
+      "google_place_id": "ChIJc2SLLNjzwokRt4Qr37QbMRQ"
+    },
+    {
+      "name": "Traditional LAX",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Traditional Mid City",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Transcend Wellness",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Treehouse Cannabis",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Trees Hollywood",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Trinity MA DBA Happy Leaf",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Twinn Leaf",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Twisted Cannabis - Bloomfield",
+      "states": [
+        "NY"
+      ],
+      "address": "2 E Main St, Bloomfield, NY 14469",
+      "phone": "(585) 337-0859",
+      "website": "https://www.twistedcannabisflx.com/",
+      "google_place_id": "ChIJI1Bnbwk70YkR0LgtXTRXB24"
+    },
+    {
+      "name": "Union Cannabis Club",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Up the River",
+      "states": [
+        "NY"
+      ],
+      "address": "34 Main St, Ossining, NY 10562",
+      "phone": "(914) 960-3524",
+      "website": "https://www.uptheriver914.com/",
+      "google_place_id": "ChIJcQzmpkHBwokRItBfn2HVaWs"
+    },
+    {
+      "name": "Upstate Pines Inc",
+      "states": [
+        "NY"
+      ],
+      "address": "7345 S Broadway, Red Hook, NY 12571",
+      "phone": "(845) 835-8129",
+      "website": "http://www.upstatepines.com/",
+      "google_place_id": "ChIJBWhrCHwL3YkRDFGM3K3DS7Y"
+    },
+    {
+      "name": "Valley Collective Care, Inc. DBA Atrium",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Valley Greens",
+      "states": [
+        "NY"
+      ],
+      "address": "939 Central Ave, Peekskill, NY 10566",
+      "phone": "(914) 293-0231",
+      "website": "https://valleygreensny.com/",
+      "google_place_id": "ChIJ5Q1c47nJwokRT98cVPkrKQA"
+    },
+    {
+      "name": "Velvet Napa, Inc.",
+      "states": [
+        "CA"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Verdi - Park Slope",
+      "states": [
+        "NY"
+      ],
+      "address": "360 7th Ave, Brooklyn, NY 11215",
+      "phone": "(347) 422-0024",
+      "website": "https://verdicannabis.com/",
+      "google_place_id": "ChIJkZAFlt9bwokR0ea1o3Gi4c8"
+    },
+    {
+      "name": "Vereleaf",
+      "states": [
+        "NY"
+      ],
+      "address": "383 8th Ave, New York, NY 10001",
+      "phone": "(646) 368-1130",
+      "website": "https://shop.vereleaf.com/shop/",
+      "google_place_id": "ChIJNTRxEgBZwokRQlGvGSnupoc"
+    },
+    {
+      "name": "Voltaire NJ",
+      "states": [
+        "NJ",
+        "New Jersey"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "White Atmoss",
+      "states": [
+        "NY"
+      ],
+      "address": "200 Lake St, Newburgh, NY 12550",
+      "phone": "(845) 561-0780",
+      "website": "http://www.whiteatmoss.com/",
+      "google_place_id": "ChIJeS7vhKcz3YkRQtSm-vNhbIs"
+    },
+    {
+      "name": "Wicked Reserve",
+      "states": [
+        "NY"
+      ],
+      "address": "1150 University Ave Building 5, Suite 7, Rochester, NY 14607",
+      "phone": "(585) 402-9712",
+      "website": "https://wickedreservedispensary.com/",
+      "google_place_id": "ChIJtdW5dEu11okRCK4UrSemaqY"
+    },
+    {
+      "name": "Wilde Roots Dispensary",
+      "states": [
+        "NY"
+      ],
+      "address": "4179 US-20, Castleton-On-Hudson, NY 12033",
+      "phone": "(518) 472-0027",
+      "website": "http://www.wilderoots.com/",
+      "google_place_id": "ChIJxeKO0nXj3YkRVMSQewp1siU"
+    },
+    {
+      "name": "Windy Hill Wellness Cannabis Dispensary - Glens Falls",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Wintergreen",
+      "states": [
+        "NY"
+      ],
+      "address": "6320 Main St, Tannersville, NY 12485",
+      "phone": null,
+      "website": "https://www.wintergreen-dispensary.com/",
+      "google_place_id": "ChIJL_9Dequt3YkR4wNDpkG5C18"
+    },
+    {
+      "name": "World Piece",
+      "states": [
+        "NY"
+      ],
+      "address": null,
+      "phone": null,
+      "website": null,
+      "google_place_id": null
+    },
+    {
+      "name": "Yerba Buena",
+      "states": [
+        "NY"
+      ],
+      "address": "292 Atlantic Ave, Brooklyn, NY 11201",
+      "phone": "(833) 366-7572",
+      "website": "https://yerbabuena.nyc/?utm_source=gbp&utm_medium=organic&utm_campaign=yerbabuena",
+      "google_place_id": "ChIJCTuD2kNbwokRSqTRnQ6oY3Q"
+    }
+  ],
+  "updated": "2026-07-19",
+  "count": 328
+}

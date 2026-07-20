@@ -7,13 +7,26 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     <div style="text-align: center; margin-bottom: 30px;">
       <h2 class="common-h2" style="margin-bottom: 12px;">Find Lowell Near You</h2>
       <p style="color: var(--text-gray); font: normal normal 400 16px/1.6 var(--font-sans); max-width: 600px; margin: 0 auto;">
-        Pick a product and find stores near you that carry it.
+        Pick a product and find stores near you that carry it. Select your state below.
       </p>
+    </div>
+
+    <!-- State selector -->
+    <div style="text-align: center; margin-bottom: 20px;">
+      <label for="state-select" style="font: normal normal 400 14px/1.6 var(--font-sans); color: var(--text-gray); margin-right: 10px;">State:</label>
+      <select id="state-select" style="padding: 8px 16px; font: normal normal 400 15px/1.5 var(--font-sans); border: 1px solid #ccc; border-radius: 6px; background: white;">
+        <option value="NY">New York</option>
+        <option value="NJ">New Jersey</option>
+        <option value="IL">Illinois</option>
+        <option value="CO">Colorado</option>
+        <option value="CA">California</option>
+      </select>
     </div>
 
     <!-- Embedded store finder -->
     <div id="store-finder-embed" style="width: 100%; min-height: 600px; border: none; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.08);">
       <iframe
+        id="store-finder-iframe"
         src="https://lowell-find.netlify.app"
         title="Lowell Store Finder"
         style="width: 100%; height: 700px; border: none;"
@@ -28,8 +41,21 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   </section>
 </BaseLayout>
 
+<script>
+  (function() {
+    const select = document.getElementById('state-select');
+    const iframe = document.getElementById('store-finder-iframe');
+
+    select.addEventListener('change', function() {
+      // The store finder iframe currently loads from lowell-find.netlify.app.
+      // Once the expanded backend is deployed, we can pass ?state=NJ etc.
+      // For now this is a future capability.
+      console.log('State changed to:', this.value);
+    });
+  })();
+</script>
+
 <style is:global>
-  /* Responsive iframe */
   #store-finder-embed iframe {
     max-width: 500px;
     margin: 0 auto;

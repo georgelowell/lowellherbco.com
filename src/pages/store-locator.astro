@@ -1,130 +1,44 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import storesJson from '../data/stores.json';
 ---
 
 <BaseLayout>
-  <section class="store-locator-page" style="padding: 180px 15px 60px; max-width: 1200px; margin: 0 auto;">
-    <h2 class="common-h2" style="text-align: center; margin-bottom: 16px;">Find Lowell Near You</h2>
-    <p style="text-align: center; color: var(--text-gray); font: normal normal 400 16px/1.6 var(--font-sans); max-width: 600px; margin: 0 auto 40px;">
-      Find a retailer near you carrying Lowell Herb Co. products.
-    </p>
-
-    <div id="lowell-store-finder">
-      <!-- Static list of stores with known addresses -->
-      <div class="stores-list" style="max-width: 800px; margin: 0 auto;">
-        <input type="text" id="store-search" placeholder="Search by store name, city, or state..."
-          style="width: 100%; padding: 14px 16px; border: 1px solid #ccc; font: normal normal 400 16px/1.6 var(--font-sans); margin-bottom: 30px;">
-
-        <div id="stores-container">
-          {
-            storesJson.stores
-              .filter(store => store.address)
-              .map(store => (
-                <div class="store-card" data-name={store.name.toLowerCase()} data-states={store.states.join(' ').toLowerCase()}>
-                  <div class="store-card-header">
-                    <h3>{store.name}</h3>
-                    <span class="store-states">{store.states.join(', ')}</span>
-                  </div>
-                  {store.address && <p class="store-address">{store.address}</p>}
-                  <div class="store-links">
-                    {store.phone && <a href={`tel:${store.phone}`} class="store-link">{store.phone}</a>}
-                    {store.website && <a href={store.website.startsWith('http') ? store.website : `https://${store.website}`} target="_blank" class="store-link" rel="noopener">Visit Website</a>}
-                  </div>
-                </div>
-              ))
-          }
-        </div>
-
-        <p style="text-align: center; color: var(--text-muted); font: normal normal 400 14px/1.6 var(--font-sans); margin-top: 20px;">
-          Showing {storesJson.stores.filter(s => s.address).length} stores with known locations.
-          More stores being added regularly.
-        </p>
-      </div>
+  <section class="store-locator-page" style="padding: 120px 15px 60px; max-width: 1200px; margin: 0 auto;">
+    <div style="text-align: center; margin-bottom: 30px;">
+      <h2 class="common-h2" style="margin-bottom: 12px;">Find Lowell Near You</h2>
+      <p style="color: var(--text-gray); font: normal normal 400 16px/1.6 var(--font-sans); max-width: 600px; margin: 0 auto;">
+        Pick a product and find stores near you that carry it.
+      </p>
     </div>
+
+    <!-- Embedded store finder -->
+    <div id="store-finder-embed" style="width: 100%; min-height: 600px; border: none; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.08);">
+      <iframe
+        src="https://lowell-find.netlify.app"
+        title="Lowell Store Finder"
+        style="width: 100%; height: 700px; border: none;"
+        allow="geolocation"
+        loading="lazy"
+      ></iframe>
+    </div>
+
+    <p style="text-align: center; color: var(--text-muted); font: normal normal 400 13px/1.6 var(--font-sans); margin-top: 16px;">
+      Find stores near you that carry Lowell products. Select a product and enter your zip code to see nearby retailers with current inventory.
+    </p>
   </section>
 </BaseLayout>
 
-<style>
-  .store-card {
-    border-bottom: 1px dashed #ccc;
-    padding: 20px 0;
+<style is:global>
+  /* Responsive iframe */
+  #store-finder-embed iframe {
+    max-width: 500px;
+    margin: 0 auto;
+    display: block;
   }
 
-  .store-card:last-child {
-    border-bottom: none;
-  }
-
-  .store-card-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-bottom: 8px;
-  }
-
-  .store-card-header h3 {
-    font: normal normal 400 18px/1.3 var(--font-serif);
-    color: var(--text-dark);
-    margin: 0;
-  }
-
-  .store-states {
-    font: normal normal 400 13px/1.4 var(--font-sans);
-    color: var(--text-muted);
-    background: #f5f0eb;
-    padding: 3px 10px;
-    border-radius: 12px;
-  }
-
-  .store-address {
-    font: normal normal 400 15px/1.5 var(--font-sans);
-    color: var(--text-gray);
-    margin-bottom: 8px;
-  }
-
-  .store-links {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-  }
-
-  .store-link {
-    font: normal normal 400 14px/1.5 var(--font-sans);
-    color: var(--button-burgundy);
-    text-decoration: underline;
-  }
-
-  .store-link:hover {
-    opacity: 0.8;
-  }
-
-  @media (max-width: 767px) {
-    .store-card-header {
-      flex-direction: column;
-      align-items: flex-start;
+  @media (min-width: 768px) {
+    #store-finder-embed iframe {
+      max-width: 500px;
     }
   }
 </style>
-
-<script>
-  (function() {
-    const search = document.getElementById('store-search');
-    const container = document.getElementById('stores-container');
-    const cards = container.querySelectorAll('.store-card');
-
-    search.addEventListener('input', function() {
-      const q = this.value.toLowerCase().trim();
-      cards.forEach(card => {
-        const name = card.getAttribute('data-name') || '';
-        const states = card.getAttribute('data-states') || '';
-        if (!q || name.includes(q) || states.includes(q)) {
-          card.style.display = '';
-        } else {
-          card.style.display = 'none';
-        }
-      });
-    });
-  })();
-</script>
